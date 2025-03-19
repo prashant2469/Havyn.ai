@@ -1,0 +1,789 @@
+Unit,Name,Tenant Status,Deposit,Amount Receivable,0-30,30-60,60-90,90+,Last Payment,Payment Amount,Tags,Move In,Property Name,Property Address,Delinquent Subsidy Amount,Delinquent Rent
+
+"-> 520 Tom Hunter - 520 Tom Hunter Road Charlotte, NC 28213","","","","","","","","","","","","","","","",""
+309,"Hankins, Ryhan",Current,"2,167.00","3,134.50","1,567.25","1,567.25",0.00,0.00,01/14/2025,"2,074.50",,11/16/2024,520 Tom Hunter,"520 Tom Hunter Road Charlotte, NC 28213",0.00,"2,890.00"
+"-> Alexander Homes - 503-18 South O'Henry Boulevard Greensboro, NC 27401","","","","","","","","","","","","","","","",""
+413 S. O'henry Blvd- # 413-01,"Peguese (KEY), Benjamin",Current,0.00,"7,393.00",483.00,483.00,483.00,"5,944.00",,,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,"6,440.00"
+1811 Spencer St. # 1811,"Jones, Tyrique",Current,750.00,"4,318.91",787.50,787.50,787.50,"1,956.41",10/09/2024,400.00,,04/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,"4,095.78"
+223 York St. # 223,"Toms-Tax-Cr., Thomas",Current,99.00,"3,830.50",493.50,493.50,493.50,"2,350.00",03/04/2025,188.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,"3,760.00"
+413 S. O'henry Blvd- # 413-09,"Patrick, Kim",Current,300.00,"2,444.00",493.50,493.50,493.50,963.50,02/20/2025,470.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,"2,373.50"
+225 York St. # 225,"Hernandez-Bruno, Amayrani D.",Current,850.00,"1,699.54",849.75,849.75,0.04,0.00,01/17/2025,500.00,,10/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,"1,590.00"
+413 S. O'henry Blvd  - # 413-13,"Ramirez Castillo, Cidar",Current,850.00,"1,567.47",849.75,717.72,0.00,0.00,01/17/2025,860.00,,10/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,"1,464.25"
+1823 Spencer St. # 1823,"Good- Sect.8, Carolyn",Current,99.00,"1,426.50",56.70,56.70,56.70,"1,256.40",03/04/2025,54.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401","6,225.00","1,413.00"
+1837 Spencer St. # 1837,"Owens - Sect. 8, Alice",Current,300.00,"1,036.50",254.70,193.80,0.00,588.00,02/25/2025,"5,188.00",,07/10/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",654.00,919.10
+413 S. O'henry Blvd- # 413-07,"Degree, Tykera",Current,300.00,981.80,493.50,488.30,0.00,0.00,01/17/2025,470.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,935.04
+1839 Spencer St. # 1839,"Perry-Sect.8, Brian",Current,150.00,963.90,355.95,355.95,252.00,0.00,03/04/2025,339.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",912.00,930.00
+413 S.O'henry Blvd- # 413-16,"Johnson, Vickie",Current,300.00,656.83,493.50,163.33,0.00,0.00,03/11/2025,470.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,609.83
+324 Bingham St. # 324-A,"Tysor, Antwuan",Current,99.00,603.00,546.00,57.00,0.00,0.00,03/04/2025,520.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,551.00
+324 Bingham St. # 324-D,"Clark, Shirley D.",Current,150.00,540.50,493.50,47.00,0.00,0.00,03/05/2025,470.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,493.50
+413 S. O'henry Blvd- # 413-03,"Delaney, Leon",Current,523.00,517.00,493.50,23.50,0.00,0.00,02/05/2025,470.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,470.00
+213 Gant St. # 213,"Franklin, Demetrius P.",Current,950.00,193.08,193.08,0.00,0.00,0.00,03/13/2025,30.00,,10/03/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,153.33
+413 S. O'henry Blvd- # 413-04,"Mendoza, Karen Y.",Current,750.00,57.00,57.00,0.00,0.00,0.00,03/01/2025,850.00,,04/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,54.28
+413 S. O'henry Blvd - # 413-14,"Benitez-Melendez, Edgar F.",Current,850.00,29.78,29.78,0.00,0.00,0.00,03/03/2025,315.00,,10/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,14.07
+215 Gant St # 215,"Watson, Yvette",Current,150.00,25.73,25.73,0.00,0.00,0.00,03/04/2025,490.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,24.50
+324 Bingham St. # 324-C,"Knight, Kathleen",Current,99.00,24.68,24.68,0.00,0.00,0.00,03/04/2025,470.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,23.50
+1835 Spencer St. # 1835,"Goins, Gwendolyn",Current,150.00,22.58,22.58,0.00,0.00,0.00,03/05/2025,430.00,,02/01/2024,Alexander Homes,"503-18 South O'Henry Boulevard Greensboro, NC 27401",0.00,21.50
+,,,"7,719.00","28,332.30","7,497.20","5,210.55","2,566.24","13,058.31",,"12,984.00",,,,,"7,791.00","26,336.18"
+"-> Alice Avenue - 23 Alice Ave Belmont, NC 28012","","","","","","","","","","","","","","","",""
+23-1,"Pena Dussan, Walter A.",Current,"1,150.00",890.28,890.28,0.00,0.00,0.00,03/05/2025,"1,150.00",,08/21/2023,Alice Avenue,"23 Alice Ave Belmont, NC 28012",0.00,847.88
+23-8,"Aery, Jamauris  A.",Current,750.00,102.97,102.97,0.00,0.00,0.00,03/15/2025,750.00,,12/08/2023,Alice Avenue,"23 Alice Ave Belmont, NC 28012",0.00,65.47
+,,,"1,900.00",993.25,993.25,0.00,0.00,0.00,,"1,900.00",,,,,0.00,913.35
+"-> Catawba Avenue - 210 E Catawba Avenue Mt Holly, NC 28120","","","","","","","","","","","","","","","",""
+210-9,"Beaumier, Norman  R.",Current,"1,792.50","1,515.13","1,305.00",210.13,0.00,0.00,03/13/2025,300.00,,02/17/2023,Catawba Avenue,"210 E Catawba Avenue Mt Holly, NC 28120",0.00,"1,305.13"
+210-3,"Giraldo, Jonathan",Current,"1,720.00","1,244.25","1,244.25",0.00,0.00,0.00,02/05/2025,"1,185.00",,10/28/2021,Catawba Avenue,"210 E Catawba Avenue Mt Holly, NC 28120",0.00,"1,185.00"
+210-14,"Hancock, Willie",Current,0.00,867.69,866.25,1.44,0.00,0.00,03/03/2025,866.00,,09/01/2020,Catawba Avenue,"210 E Catawba Avenue Mt Holly, NC 28120",0.00,825.00
+210-17,"Thomas, Antiwan",Current,0.00,247.25,247.25,0.00,0.00,0.00,03/06/2025,900.00,,03/14/2021,Catawba Avenue,"210 E Catawba Avenue Mt Holly, NC 28120",0.00,247.25
+,,,"3,512.50","3,874.32","3,662.75",211.57,0.00,0.00,,"3,251.00",,,,,0.00,"3,562.38"
+"-> Circle Oaks Apartments - 1018 Sims Cir Gastonia, NC 28054","","","","","","","","","","","","","","","",""
+1103 Sims Cir  Apt # B,"Cruz Flores, Karina A.",Current,600.00,"4,620.00","1,155.00","1,155.00","1,155.00","1,155.00",11/14/2024,"1,155.00",,02/01/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"4,400.00"
+1124 Sims Cr. Apt. # C,"Walker, Earl",Current,750.00,"2,868.75","1,233.75","1,233.75",401.25,0.00,02/27/2025,"1,100.00",,11/08/2021,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"2,692.50"
+1108 Sims Cir. Apt. # B,"Rivera, Jose Osvaldo",Current,"1,800.00","2,694.96","1,417.50","1,277.46",0.00,0.00,03/03/2025,400.00,,01/08/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"2,559.96"
+1017  Sims Cir.  Apt. # C,"Castillo Rodriguez, Armando",Current,0.00,"2,625.00",525.00,525.00,525.00,"1,050.00",05/06/2024,500.00,,04/01/2023,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"2,500.00"
+1276 Baugh St.  Apt. # A,"Ramirez Navales, Eulicer",Current,300.00,"2,454.81",960.00,944.25,550.56,0.00,01/27/2025,900.00,,12/01/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"2,100.00"
+922 Dowd Dr.  Apt # E,"JN Felix , Jean  M.",Current,"1,250.00","2,385.75","1,417.50",968.25,0.00,0.00,03/05/2025,"1,000.00",,09/29/2023,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"2,250.75"
+1111 Sims Cir.  Apt. # D,"Buitrago Hernandez, Karen D.",Current,500.00,"2,251.89","1,071.00","1,071.00",109.89,0.00,01/16/2025,"1,000.00",,02/01/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"2,101.14"
+1001 Sims Cir.  Apt. # A,"Williams, Tyric",Current,"1,000.00","2,047.50","1,023.75","1,023.75",0.00,0.00,01/24/2025,"2,047.50",,05/01/2023,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,950.00"
+1111 Sims Cir.  Apt. # A,"Dixon-Davis, Sonya",Current,695.00,"1,827.50",892.50,892.50,42.50,0.00,02/05/2025,850.00,,12/13/2018,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,700.00"
+1301 Sims Cir.  Apt. # A,"Duran , Hedilberto  W.",Current,600.00,"1,362.50","1,023.75",338.75,0.00,0.00,02/06/2025,975.00,,02/27/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,265.00"
+1124 Sims Cr. Apt. # A,"Jean , Jorel",Current,"1,150.00","1,322.50","1,207.50",115.00,0.00,0.00,03/10/2025,"1,150.00",,05/31/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,207.50"
+1111 Sims Cir.  Apt. # F,"Phillips, Ricky",Current,400.00,"1,155.00","1,155.00",0.00,0.00,0.00,02/19/2025,"1,100.00",,12/16/2022,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,100.00"
+1262 Baugh St.  Apt. # B,"Rodriguez-Aleman, Jimmy A.",Current,600.00,"1,155.00","1,155.00",0.00,0.00,0.00,02/05/2025,"1,100.00",,03/21/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,100.00"
+1017 Sims Cir.  Apt. # A,"Baez Mateo, Altagracia",Current,900.00,"1,154.25","1,154.25",0.00,0.00,0.00,02/05/2025,100.00,,10/16/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,085.00"
+1001 Sims Cir.  Apt. # D,"Metelus, Melouis",Current,895.00,"1,149.75","1,149.75",0.00,0.00,0.00,02/05/2025,"1,095.00",,08/25/2022,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,095.00"
+1255 Baugh St.  Apt. # D,"Roberts, Renardo",Current,775.00,"1,076.25","1,076.25",0.00,0.00,0.00,02/25/2025,276.25,,11/08/2021,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,"1,025.00"
+1271 Baugh St.  Apt  # D,"Felix, Jean",Current,600.00,997.50,996.75,0.75,0.00,0.00,02/23/2025,996.00,,11/01/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,935.00
+908 Dowd Dr.  Apt. # B,"Ramirez, Silvestrina",Current,600.00,799.63,799.63,0.00,0.00,0.00,03/13/2025,600.00,,04/12/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,747.13
+1270 Baugh St.  Apt. # B,"Nixon, Leo",Current,"1,312.00",293.07,293.07,0.00,0.00,0.00,03/12/2025,625.00,,02/01/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,249.35
+1311 Sims Cir. Apt. # C,"Brown, Tommie",Current,995.00,288.87,288.87,0.00,0.00,0.00,03/13/2025,400.00,,02/01/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,232.25
+1262 Baugh St.  Apt. # C,"Brice, Sharika Renee",Current,730.00,271.12,304.03,0.00,0.00,-32.91,03/13/2025,757.00,,11/08/2021,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,304.03
+1025 Sims Cir.  Apt # B,"GuevaraGen, Juan  C.",Current,"1,000.00",135.00,135.00,0.00,0.00,0.00,03/10/2025,"1,000.00",,04/19/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,67.50
+1276 Baugh St.  Apt. # B,"Wilner, Louis",Current,"1,600.00",72.50,350.00,0.00,0.00,-277.50,03/05/2025,"1,100.00",,12/01/2023,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,350.00
+1025 Sims Cir.   Apt # C,"Pierre, Roodline",Current,"1,400.00",65.84,65.84,0.00,0.00,0.00,03/06/2025,401.00,,05/17/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.00
+1282 Baugh St.  Apt. # A,"Chery, Ketchner",Current,"1,250.00",62.50,62.50,0.00,0.00,0.00,03/06/2025,250.00,,07/24/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.00
+1270 Baugh ST Apt. # C,"Beton, Eugene",Current,800.00,61.75,61.75,0.00,0.00,0.00,03/06/2025,"1,000.00",,01/14/2025,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.00
+1311 Sims Cir. Apt. # D,"Godinez Lopez, Oel J.",Current,"1,100.00",54.34,54.34,0.00,0.00,0.00,03/06/2025,100.00,,07/19/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.00
+1271 Baugh St.  Apt. # B,"Gomez Reyes, Julio C.",Current,600.00,44.63,44.63,0.00,0.00,0.00,03/06/2025,"1,050.00",,02/01/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.00
+908 Dowd Dr.  Apt. # D,"Torres, Dayron J.",Current,"1,100.00",7.50,7.50,0.00,0.00,0.00,03/10/2025,"1,205.00",,09/13/2023,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.00
+1282 Baugh St.  Apt. # B,"Louis , Wilner",Current,"1,450.00",1.99,70.87,0.00,0.00,-68.88,03/04/2025,"1,450.00",,10/02/2023,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,70.87
+1321 Sims Cir. Apt. # C,"Blakeney, Dakota",Current,750.00,0.81,0.81,0.00,0.00,0.00,03/16/2025,937.00,,11/08/2021,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.00
+1124 Sims Cir.  Apt. # D,"Lopez, Brandon",Current,"1,000.00",0.21,0.21,0.00,0.00,0.00,03/17/2025,207.00,,04/26/2024,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.00
+1301 Sims Cir.  Apt. # C,"Lynch, Marcie",Current,725.00,0.18,0.18,0.00,0.00,0.00,02/27/2025,787.00,,11/08/2021,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.17
+1256 Baugh St. Apt. # B,"Lebrun, Daphcar  L.",Current,"1,250.00",0.02,0.02,0.00,0.00,0.00,03/04/2025,"1,300.00",,08/01/2023,Circle Oaks Apartments,"1018 Sims Cir Gastonia, NC 28054",0.00,0.01
+,,,"30,477.00","35,308.87","21,153.50","9,545.46","2,784.20","1,825.71",,"28,913.75",,,,,0.00,"33,088.16"
+"-> Circle Oaks Owners Association - 1111 sims circle Unit D Gastonia, 28052","","","","","","","","","","","","","","","",""
+1250C,"Yuan, Yi",Current,0.00,"2,850.26",183.96,200.20,200.20,"2,265.90",05/02/2024,136.55,,12/01/2023,Circle Oaks Owners Association,"1111 sims circle Unit D Gastonia, 28052",0.00,0.00
+1311 Sims Unit B,RAP Group LLC,Current,0.00,"1,874.04",0.00,0.00,0.00,"1,874.04",,,,01/01/2023,Circle Oaks Owners Association,"1111 sims circle Unit D Gastonia, 28052",0.00,0.00
+1271 Baugh Unit F,Rap Group LLC,Current,0.00,"1,172.66",0.00,0.00,0.00,"1,172.66",12/31/2023,667.98,,01/01/2023,Circle Oaks Owners Association,"1111 sims circle Unit D Gastonia, 28052",0.00,0.00
+1001C,"Boroughs, Cole",Current,0.00,136.33,0.00,0.00,0.00,136.33,01/06/2024,111.33,,01/01/2023,Circle Oaks Owners Association,"1111 sims circle Unit D Gastonia, 28052",0.00,0.00
+,,,0.00,"6,033.29",183.96,200.20,200.20,"5,448.93",,915.86,,,,,0.00,0.00
+"-> CLEARMONT AND GIRARD - GIRARD CT Charlotte, NC 28212","","","","","","","","","","","","","","","",""
+3113 Girard Ct  Apt  # 5,"Dilger, Bruce",Current,0.00,"5,743.75",908.25,908.25,908.25,"3,019.00",10/08/2024,118.00,,09/01/2021,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"5,248.50"
+5228 clearmont ave apt 2,"Reyes, Orbin",Current,950.00,"5,072.50",997.50,997.50,997.50,"2,080.00",11/10/2024,950.00,,01/05/2024,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"4,787.50"
+3112 Girard Ct Apt 2,"Brown, Lakesha",Current,0.00,"4,400.50","1,039.50","1,039.50","1,039.50","1,282.00",11/05/2024,415.00,,01/22/2021,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"4,153.00"
+3113 Girard Ct Apt 3,"Garcia-Perez , Angel  A.",Current,995.00,"4,179.00","1,044.75","1,044.75","1,044.75","1,044.75",08/06/2024,995.00,,09/25/2023,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"3,980.00"
+5228 clearmont ave apt 3,"Sturdivant, Talara",Current,0.00,"3,215.00","1,102.50","1,102.50","1,010.00",0.00,02/03/2025,200.00,,06/01/2021,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"3,057.50"
+3101 GIRARD CT Apt 2,"Alonzo Hernandez, Elvin  D.",Current,"1,125.00","3,124.68",997.50,997.50,997.50,132.18,01/09/2025,950.00,,01/07/2022,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"2,982.18"
+5300 Clearmont Ave Apt 5,"Salazar, Maria",Current,950.00,"2,105.00",997.50,997.50,110.00,0.00,02/08/2025,25.00,,01/01/2024,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"1,962.50"
+3112 Girard Ct Apt 5,"Maldonado, Danilo",Current,925.00,"2,100.00","1,050.00","1,050.00",0.00,0.00,01/08/2025,"1,050.00",,02/10/2023,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"2,000.00"
+5214 Clearmont Ave Apt 2,"Covington, Shontaviua",Current,0.00,"1,581.75","1,092.00",489.75,0.00,0.00,03/04/2025,"1,040.00",,04/24/2021,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"1,477.75"
+3116 Girard Ct Apt 3,"Cornejo Gutierrez, Ricardo  J.",Current,995.00,"1,178.75","1,076.25",102.50,0.00,0.00,03/03/2025,25.00,,03/20/2023,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"1,076.25"
+3116 Girard Ct Apt 5,"Astaiza, Jairo",Current,600.00,"1,080.00","1,050.00",30.00,0.00,0.00,02/11/2025,"1,020.00",,06/25/2024,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"1,000.00"
+3101 GIRARD CT Apt 1,"FORD RAMON & PEREZ, EMANUEL & ERNESTO",Current,500.00,"1,075.00","1,075.00",0.00,0.00,0.00,02/03/2025,"1,025.00",,09/01/2023,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,"1,023.75"
+5300 Clearmont Ave Apt 1,"Cuahutle Flores, Ricardo",Current,950.00,997.50,997.50,0.00,0.00,0.00,02/20/2025,997.50,,02/01/2024,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,950.00
+3113 Girard Ct Apt 4,"Xocop, Julio Cesar",Current,0.00,59.25,59.25,0.00,0.00,0.00,03/02/2025,985.00,,10/01/2021,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,10.00
+3117 Girard Ct Apt 4,"Leon T, Jose L",Current,500.00,15.00,15.00,0.00,0.00,0.00,03/11/2025,50.00,,03/13/2025,CLEARMONT AND GIRARD,"GIRARD CT Charlotte, NC 28212",0.00,0.00
+,,,"8,490.00","35,927.68","13,502.50","8,759.75","6,107.50","7,557.93",,"9,845.50",,,,,0.00,"33,708.93"
+"-> Crescent Apartments - 2611 Crescent Lane Gastonia, NC 28052","","","","","","","","","","","","","","","",""
+2611 Crescent Lane M,"Lopez Santamaria, Salvador",Current,0.00,"2,481.27",966.00,887.52,627.75,0.00,01/16/2025,"1,000.00",,09/01/2021,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,"2,347.00"
+2720 Crescent Unit E,"McGill, Tamiya R.",Current,0.00,"2,311.03","1,328.25",982.78,0.00,0.00,03/05/2025,"1,115.00",,02/01/2021,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,"2,184.53"
+2421 Sunset Ave Apt K,"Miranda, Glenda",Current,0.00,"1,022.70","1,022.70",0.00,0.00,0.00,01/31/2025,975.00,,03/01/2021,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,974.00
+2421 Sunset Ave Apt C,"Perez, Leticia",Current,0.00,729.38,729.38,0.00,0.00,0.00,03/10/2025,995.00,,01/01/2021,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,682.08
+2421 Sunset Ave   Apt. # O,"Mondesir, Wislene",Current,975.00,641.22,641.22,0.00,0.00,0.00,03/04/2025,975.00,,01/17/2023,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,610.68
+2718 Crescent Lane Apt A,"Sagesse, Sagiles",Current,"1,050.00",154.93,154.93,0.00,0.00,0.00,03/07/2025,"1,050.00",,12/06/2023,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,102.43
+906 Jupiter St,"Dieuliphete, Duogene",Current,"1,100.00",54.25,54.25,0.00,0.00,0.00,03/06/2025,100.00,,09/04/2024,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,0.00
+2421 Sunset Ave Apt M,"Baires, Heidy Hazel",Current,0.00,42.58,42.58,0.00,0.00,0.00,03/03/2025,940.00,,10/02/2024,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,41.50
+2720 Crescent Unit B,"Garcia, Delmar",Current,"1,080.00",1.50,1.50,0.00,0.00,0.00,03/18/2025,"1,044.00",,10/22/2021,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,0.00
+2718 Crescent Lane Apt G,"Gabriel Perez, Ledwin L.",Current,700.00,0.75,15.00,0.00,0.00,-14.25,03/04/2025,"1,100.00",,11/28/2024,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,15.00
+2611 Crescent Lane G,"Perez, Leonardo",Current,0.00,0.19,0.19,0.00,0.00,0.00,03/01/2025,900.00,,10/01/2021,Crescent Apartments,"2611 Crescent Lane Gastonia, NC 28052",0.00,0.18
+,,,"4,905.00","7,439.80","4,956.00","1,870.30",627.75,-14.25,,"10,194.00",,,,,0.00,"6,957.40"
+"-> Delta Shopping Center - 1111 - 1123  South York St. Gastonia, NC 28052","","","","","","","","","","","","","","","",""
+1121 South York St.,The People's Cuts,Current,0.00,"2,094.62","1,207.50",887.12,0.00,0.00,01/29/2025,"1,050.00",,11/01/2022,Delta Shopping Center,"1111 - 1123  South York St. Gastonia, NC 28052",0.00,"1,994.87"
+1123  South York St.,"Efficient Heating and AC, Energy",Current,0.00,68.92,68.92,0.00,0.00,0.00,02/28/2025,"1,250.00",,03/01/2023,Delta Shopping Center,"1111 - 1123  South York St. Gastonia, NC 28052",0.00,65.63
+,,,0.00,"2,163.54","1,276.42",887.12,0.00,0.00,,"2,300.00",,,,,0.00,"2,060.50"
+"-> Eastgate Village - 2901 Walkertown Rd Winston-Salem, NC 27105","","","","","","","","","","","","","","","",""
+2900-B,"Blal, Cheikh",Current,800.00,"2,564.25",855.00,855.00,839.25,15.00,12/11/2024,840.00,,11/01/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,"2,385.00"
+2900-D,"Marcial, Vicki",Current,750.00,"1,579.50",800.00,784.50,10.00,-15.00,02/10/2025,815.00,,09/12/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,"1,594.50"
+2920-O,"Senegalaise, Ndiaye",Current,750.00,"1,500.00",750.00,750.00,0.00,0.00,01/14/2025,250.00,,11/08/2023,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,"1,500.00"
+2920-C,"Brooks, Sonyia",Current,0.00,"1,116.28",787.50,328.78,0.00,0.00,02/19/2025,200.00,,11/01/2015,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,"1,053.60"
+2920-A,"Carter-S8, Kenneth",Current,100.00,928.00,735.00,193.00,0.00,0.00,03/12/2025,215.00,,07/10/2015,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,893.00
+2921-A,"Palma, Maria",Current,800.00,910.00,855.00,55.00,0.00,0.00,03/03/2025,800.00,,09/19/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,800.00
+2901-J,"Martinez , Luis",Current,800.00,855.00,855.00,0.00,0.00,0.00,02/07/2025,800.00,,09/16/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,800.00
+2921-L,"Garcia, Sarai",Current,750.00,831.98,787.50,44.48,0.00,0.00,02/21/2025,770.00,,04/09/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,756.98
+2910-J,"Williams, Jordan",Current,0.00,819.18,787.50,31.68,0.00,0.00,02/27/2025,750.00,,04/20/2020,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,750.00
+2901-L,"Jones-S8, Maynard",Current,0.00,808.34,750.00,58.34,0.00,0.00,03/03/2025,404.00,,05/13/2020,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,808.34
+2931-H,"Modou, Díaw",Current,750.00,797.00,787.50,9.50,0.00,0.00,03/05/2025,780.00,,07/08/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,750.00
+2910-F,"Faye, Papa Laity",Current,750.00,787.50,787.50,0.00,0.00,0.00,02/04/2025,750.00,,06/10/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,750.00
+2931-K,"Sanb, Thierno",Current,750.00,787.50,787.50,0.00,0.00,0.00,02/27/2025,787.50,,07/15/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,750.00
+2931-E,"Harrington , Michael",Current,0.00,761.25,761.25,0.00,0.00,0.00,01/30/2025,750.00,,11/29/2021,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,725.00
+2921-E,"Pender , Derrick",Current,0.00,700.00,700.00,0.00,0.00,0.00,03/10/2025,675.00,,10/01/2016,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,662.50
+2931-J,"Thomas, Ricco",Current,0.00,676.69,676.69,0.00,0.00,0.00,03/12/2025,200.00,,05/12/2016,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,639.19
+2901-I,"Sims-S8, Ramona",Current,0.00,528.43,528.43,0.00,0.00,0.00,03/04/2025,279.00,,08/05/2019,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,493.43
+2920-G,"Williams - Section 8, Glenice A.",Current,675.00,527.00,527.00,0.00,0.00,0.00,03/01/2025,486.00,,03/20/2023,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,527.00
+2910-E,"Ceasar-S8, Loretta",Current,0.00,516.98,516.98,0.00,0.00,0.00,03/02/2025,320.00,,07/03/2018,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,492.36
+2920-N,"Herring -S8, William",Current,0.00,481.00,481.00,0.00,0.00,0.00,03/06/2025,233.00,,07/01/2015,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,481.00
+2920-P,"Day - Section 8, Glen",Current,900.00,415.00,415.00,0.00,0.00,0.00,03/04/2025,400.00,,06/01/2023,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,415.00
+2900-M,"Young, Linda",Current,0.00,410.82,410.82,0.00,0.00,0.00,03/05/2025,300.00,,04/21/2017,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,391.25
+2921-N,"Bailey , Luevina",Current,0.00,384.42,384.42,0.00,0.00,0.00,03/14/2025,375.00,,02/22/2021,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,348.25
+2921-B,"Alassane, Gueye",Current,750.00,382.00,382.00,0.00,0.00,0.00,03/08/2025,750.00,,09/01/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,382.00
+2911-I,"khadim, seye",Current,800.00,340.00,340.00,0.00,0.00,0.00,03/12/2025,800.00,,09/24/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,340.00
+2900-J,"Euseda, Delmer",Current,750.00,167.50,167.50,0.00,0.00,0.00,03/06/2025,760.00,,09/04/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,115.00
+2901-E,"Joyce-S8, Jeffrey",Current,0.00,92.56,92.56,0.00,0.00,0.00,03/01/2025,279.00,,07/01/2015,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,88.15
+2931-F,"Smith-S8, Robert",Current,0.00,64.49,64.49,0.00,0.00,0.00,03/04/2025,274.00,,09/03/2019,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,47.08
+2920-J,"Moustapha, Ndiaye",Current,800.00,55.00,55.00,0.00,0.00,0.00,03/13/2025,800.00,,11/12/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2921-D,"Sene, Omar",Current,800.00,55.00,55.00,0.00,0.00,0.00,03/08/2025,800.00,,11/22/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,15.00
+2920-F,"Daouda, sal",Current,800.00,55.00,55.00,0.00,0.00,0.00,03/07/2025,800.00,,12/02/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,15.00
+2931-L,"Toure, Dame",Current,800.00,55.00,55.00,0.00,0.00,0.00,03/15/2025,800.00,,12/13/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,15.00
+2900-O,"Mamadou, Dieng",Current,800.00,55.00,55.00,0.00,0.00,0.00,03/06/2025,800.00,,12/19/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,15.00
+2921-O,"Fallou, Sarr",Current,800.00,55.00,55.00,0.00,0.00,0.00,03/07/2025,300.00,,01/16/2025,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2931-A,"Serigne, Ndao",Current,800.00,54.16,54.16,0.00,0.00,0.00,03/10/2025,800.00,,10/24/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2900-F,"Sink-S8, David",Current,-900.83,52.50,52.50,0.00,0.00,0.00,03/06/2025,269.00,,05/15/2018,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,52.50
+2911-H,"Johnson-S8, Carlene",Current,0.00,48.85,48.85,0.00,0.00,0.00,03/03/2025,300.00,,07/03/2019,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,26.47
+2931-P,"Samba, Barry",Current,800.00,47.30,47.30,0.00,0.00,0.00,03/17/2025,750.00,,09/13/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2920-K,"Mamadou S, Balde",Current,800.00,40.00,40.00,0.00,0.00,0.00,03/10/2025,500.00,,03/03/2025,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2921-K,"Omar, Biteye",Current,800.00,40.00,40.00,0.00,0.00,0.00,03/10/2025,850.00,,03/01/2025,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2901-B,"Cheikh Ahmadou, Diop",Current,750.00,37.50,37.50,0.00,0.00,0.00,03/06/2025,750.00,,11/14/2023,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2900-L,"Guzman, Jesus",Current,750.00,37.50,37.50,0.00,0.00,0.00,03/09/2025,750.00,,03/01/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2900-G,"Diop, Ndoumbe",Current,750.00,37.50,37.50,0.00,0.00,0.00,03/08/2025,750.00,,06/01/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2921-M,"Grace-PATHWAYS, Timothy",Current,0.00,37.31,37.31,0.00,0.00,0.00,03/13/2025,750.00,,04/01/2017,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2911-F,"Hood, Calevan B.",Current,0.00,37.00,37.00,0.00,0.00,0.00,03/06/2025,838.00,,04/18/2019,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2911-C,"Gomez, Ermitanio",Current,0.00,35.63,35.63,0.00,0.00,0.00,03/18/2025,750.00,,05/23/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,0.00
+2931-D,"Hollis , Judith",Current,0.00,26.25,26.25,0.00,0.00,0.00,03/05/2025,750.00,,09/17/2018,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,25.00
+2931-N,"Riwdy, Cardell",Current,0.00,2.77,2.77,0.00,0.00,0.00,03/03/2025,725.00,,02/06/2021,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,2.63
+2921-F,"Malick, Wade",Current,800.00,0.75,15.75,0.00,0.00,-15.00,03/04/2025,800.00,,12/04/2024,Eastgate Village,"2901 Walkertown Rd Winston-Salem, NC 27105",0.00,15.00
+,,,"21,024.17","21,597.69","17,653.16","3,110.28",849.25,-15.00,,"29,674.50",,,,,0.00,"19,920.23"
+"-> Freedom St Apartments - 357 Freedom St SW Concord, NC 28025","","","","","","","","","","","","","","","",""
+3A,"Bedolla Garcia, Elvia",Current,950.00,"1,625.00",997.50,627.50,0.00,0.00,03/06/2025,950.00,,12/01/2023,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,"1,530.00"
+4C,"Rostro Vasquez, Ruben",Current,950.00,"1,230.83",997.50,233.33,0.00,0.00,02/04/2025,950.00,,02/22/2024,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,"1,135.83"
+6C,"Segovia Macias, Jose L.",Current,650.00,"1,180.26","1,015.35",164.91,0.00,0.00,03/07/2025,960.00,,12/01/2020,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,"1,083.56"
+5A,"Solano Perez, Filemon",Current,800.00,"1,155.00","1,155.00",0.00,0.00,0.00,02/28/2025,"1,044.75",,11/01/2021,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,"1,100.00"
+2B,"Diaz, Jose",Current,775.00,"1,061.50","1,061.50",0.00,0.00,0.00,03/02/2025,"1,020.00",,07/01/2021,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,"1,005.25"
+2C,"Romero Vilchez, Leonardo",Current,900.00,"1,048.25","1,048.25",0.00,0.00,0.00,03/01/2025,"1,000.00",,01/12/2023,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,993.50
+4B,"Bustos Hernandez, German",Current,"1,200.00",791.50,273.00,604.00,0.00,-85.50,03/03/2025,877.00,,03/06/2020,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,810.00
+6D,"Ventura, Silvia",Current,800.00,640.49,640.49,0.00,0.00,0.00,03/05/2025,"1,000.00",,07/15/2021,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,528.49
+4A,"Razo Mejia, Santiago",Current,950.00,427.17,427.17,0.00,0.00,0.00,03/11/2025,450.00,,11/09/2023,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,379.67
+2A,"Solano, Ismael",Current,450.00,412.50,412.50,0.00,0.00,0.00,03/04/2025,790.00,,09/01/2019,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,367.75
+6A,"Alvarado, Natalia G.",Current,950.00,284.75,284.75,0.00,0.00,0.00,03/04/2025,950.00,,12/08/2023,Freedom St Apartments,"357 Freedom St SW Concord, NC 28025",0.00,235.00
+,,,"9,375.00","9,857.25","8,313.01","1,629.74",0.00,-85.50,,"9,991.75",,,,,0.00,"9,169.05"
+"-> Glenwood Point - 3624 Hashem Dr. Ste. 1 Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+3645-8,"Belloso De Bonilla, Ingris X.",Current,0.00,"4,260.00","1,365.00","1,365.00",530.00,"1,000.00",12/09/2024,200.00,,08/01/2022,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"4,065.00"
+3701-2,"Palacios, Casandra",Current,"1,200.00","3,840.00","1,260.00","1,260.00","1,260.00",60.00,02/10/2025,"1,200.00",,04/01/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"3,600.00"
+3808-1,"Alston, Tonita",Current,"1,200.00","3,071.25","1,023.75","1,023.75","1,023.75",0.00,12/05/2024,975.00,,04/08/2022,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"2,925.00"
+3624-7,"HERNANDEZ, DAVID",Current,0.00,"2,737.50","1,312.50","1,312.50",112.50,0.00,12/02/2024,250.00,,07/01/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"2,550.00"
+3733-7,"Valdivia Caballero, Lazaro B.",Current,"1,250.00","2,625.00","1,312.50","1,312.50",0.00,0.00,01/03/2025,250.00,,03/01/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"2,500.00"
+3639-2,"Murph, Philip",Current,695.00,"2,160.50","1,102.50","1,058.00",0.00,0.00,02/21/2025,700.00,,02/05/2021,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"2,055.50"
+3816-2,"Cruz Fernandez, Nicolas A.",Current,950.00,"1,991.67",997.50,994.17,0.00,0.00,01/06/2025,950.00,,11/15/2023,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,896.67"
+3639-3,"Johnson, Westley",Current,"1,000.00","1,841.00","1,097.25",743.75,0.00,0.00,02/17/2025,425.00,,04/06/2022,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,736.50"
+3815-1,"Zelaya , Luis I.",Current,850.00,"1,657.00","1,102.50",554.50,0.00,0.00,01/06/2025,50.00,,02/01/2022,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,552.00"
+3716-2,"ESTEVEZ, HENRY",Current,600.00,"1,642.25",0.00,"1,275.75",366.50,0.00,02/17/2025,500.00,,09/30/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,520.75"
+3633-4,"Orozco Pena, Aura  C.",Current,600.00,"1,602.50","1,023.75",578.75,0.00,0.00,03/15/2025,500.00,,08/16/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,505.00"
+3807-5,"Nunez Guity, Cristian E.",Current,500.00,"1,458.25","1,359.75",98.50,0.00,0.00,03/04/2025,200.00,,09/01/2023,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,328.75"
+3733-3,"Wentz-Brown, Amanda",Current,895.00,"1,338.75","1,338.75",0.00,0.00,0.00,03/09/2025,438.75,,09/08/2020,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,275.00"
+3633-3,"Stevens, Curtis",Current,650.00,"1,150.00","1,050.00",100.00,0.00,0.00,03/17/2025,400.00,,03/19/2020,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,050.00"
+3624-2,"Lawrence, Michaelous",Current,840.00,"1,148.00","1,148.00",0.00,0.00,0.00,03/17/2025,700.00,,12/13/2019,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,085.50"
+3632-2,"Diaz, Manuel",Current,600.00,"1,073.00","1,023.75",49.25,0.00,0.00,02/14/2025,975.00,,08/21/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,975.50
+3639-5,"Lopez, Cristina A.",Current,900.00,"1,050.00","1,050.00",0.00,0.00,0.00,03/03/2025,"1,000.00",,11/01/2022,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,"1,000.00"
+3632-3,"Hill, Terrell",Current,0.00,970.00,970.00,0.00,0.00,0.00,03/06/2025,915.00,,12/02/2013,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,970.00
+3807-7,"Rose, Curtis",Current,"1,045.00",869.75,869.75,0.00,0.00,0.00,03/17/2025,300.00,,07/01/2019,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,815.00
+3816-1,"Poole, Sharon R.",Current,699.00,795.00,795.00,0.00,0.00,0.00,03/13/2025,150.00,,11/03/2020,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,745.00
+3709-5,"HERRERA, YURIS",Current,950.00,767.00,767.00,0.00,0.00,0.00,03/04/2025,"1,150.00",,08/01/2021,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,714.50
+3823-3,"Pridgen, Nathaniel",Current,595.00,717.50,717.50,0.00,0.00,0.00,03/15/2025,950.00,,05/24/2019,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,672.00
+3815-4,"Adams, David",Current,0.00,650.00,650.00,0.00,0.00,0.00,03/04/2025,950.00,,03/01/2017,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,625.00
+3645-2,"Candurin, Osvaldo",Current,"1,000.00",600.00,600.00,0.00,0.00,0.00,02/03/2025,600.00,,03/06/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,600.00
+3649-2,"Bardales Funez, Sayra M.",Current,500.00,593.75,593.75,0.00,0.00,0.00,03/10/2025,"1,360.00",,09/18/2023,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,529.00
+3624-5,"Alvarez Verdecia, Yacel E.",Current,500.00,415.00,415.00,0.00,0.00,0.00,03/04/2025,"1,100.00",,09/19/2023,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,357.50
+3808-5,"Carter, Allison",Current,570.00,349.93,349.93,0.00,0.00,0.00,03/04/2025,50.00,,11/09/2018,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,299.93
+3733-8,"CRUZ, FEDERICO",Current,600.00,343.25,343.25,0.00,0.00,0.00,03/08/2025,275.00,,11/06/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,274.50
+3725-1,"Murillo, Nubia S.",Current,950.00,325.17,325.17,0.00,0.00,0.00,03/04/2025,"1,300.00",,03/31/2021,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,260.17
+3624-6,"MARTINEZ, JOSUE",Current,600.00,204.25,204.25,0.00,0.00,0.00,03/05/2025,"1,195.00",,09/05/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,129.50
+3709-3,"Martinez, Jose  M.",Current,600.00,137.50,137.50,0.00,0.00,0.00,03/08/2025,"1,300.00",,07/15/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,75.00
+3624-8,"ARANA LEON, GABRIELA",Current,600.00,89.75,89.75,0.00,0.00,0.00,03/05/2025,"1,195.00",,09/01/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,15.00
+3823-4,"Chacon, Anay Figueredo, Yordani",Current,950.00,82.50,82.50,0.00,0.00,0.00,03/04/2025,450.00,,05/01/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,35.00
+3645-7,"Watkins, Linda",Current,745.00,78.25,78.25,0.00,0.00,0.00,03/05/2025,"1,191.00",,05/03/2019,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,15.75
+3632-5,"Ingram, Walter",Current,600.00,15.00,15.00,0.00,0.00,0.00,03/05/2025,990.00,,10/11/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,0.00
+3701-4,"Herrera T, Jose E",Current,500.00,15.00,15.00,0.00,0.00,0.00,03/04/2025,"1,075.00",,01/30/2025,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,0.00
+3623-4,"Rivera Carranza, Junior",Current,600.00,10.67,10.67,0.00,0.00,0.00,03/04/2025,940.00,,11/08/2024,Glenwood Point,"3624 Hashem Dr. Ste. 1 Charlotte, NC 28208",0.00,0.00
+,,,"25,334.00","42,675.94","26,596.77","11,726.42","3,292.75","1,060.00",,"27,149.75",,,,,0.00,"39,754.02"
+"-> Harbor Square Suisun - 700 Main St Suisun City, CA 94585","","","","","","","","","","","","","","","",""
+108,"Ocampo, Neil B.",Current,0.00,"3,266.14","3,266.14",0.00,0.00,0.00,02/24/2025,20.00,,03/17/2025,Harbor Square Suisun,"700 Main St Suisun City, CA 94585",0.00,"1,055.74"
+207,"Leigh, Debbie",Current,"1,000.00","1,964.01","1,102.50",861.51,0.00,0.00,02/02/2025,"1,050.00",,06/01/2019,Harbor Square Suisun,"700 Main St Suisun City, CA 94585",0.00,"1,870.48"
+115,"Randolph, Dante",Current,0.00,"1,256.00",0.00,0.00,892.50,363.50,03/04/2025,880.00,,01/01/2023,Harbor Square Suisun,"700 Main St Suisun City, CA 94585",0.00,"1,213.50"
+102,"Lewis Enterprise Group, LLC",Current,"3,965.00","1,026.62","1,026.62",0.00,0.00,0.00,03/07/2025,"1,885.44",,06/01/2023,Harbor Square Suisun,"700 Main St Suisun City, CA 94585",0.00,887.95
+116,"Evans, Khadeejah",Current,"1,500.00",375.00,375.00,0.00,0.00,0.00,03/14/2025,"1,200.00",,11/01/2023,Harbor Square Suisun,"700 Main St Suisun City, CA 94585",0.00,300.00
+112,"Norman, Tezra",Current,"1,400.00",80.40,80.40,0.00,0.00,0.00,03/06/2025,"1,648.00",,10/01/2023,Harbor Square Suisun,"700 Main St Suisun City, CA 94585",0.00,80.40
+106,MCH Solano LLC,Current,"27,922.00",0.32,0.32,0.00,0.00,0.00,03/07/2025,"7,761.00",,08/27/2021,Harbor Square Suisun,"700 Main St Suisun City, CA 94585",0.00,0.32
+,,,"35,787.00","7,968.49","5,850.98",861.51,892.50,363.50,,"14,444.44",,,,,0.00,"5,408.39"
+"-> High Meadow Apartments - 825 Farmhurst Dr Charlotte, NC 28217","","","","","","","","","","","","","","","",""
+837-F Farmhurst Dr,"Pugh, Quante",Current,"1,630.00","2,790.70","1,013.25","1,013.25",764.20,0.00,03/18/2025,500.00,,01/01/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"2,645.95"
+720-B Farmhurst Dr.,"Dominguez Diaz, Fausto A.",Current,"1,075.00","2,467.50","1,233.75","1,233.75",0.00,0.00,01/06/2025,"1,233.75",,07/01/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"2,350.00"
+853-K Farmhurst Dr,"HARRISON, WAYNE",Current,"1,750.00","2,432.18","1,186.50","1,186.50",59.18,0.00,02/04/2025,500.00,,06/14/2022,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"2,262.68"
+720-K Farmhurst Dr.,"Daniels, Grady",Current,520.00,"2,035.36",945.00,945.00,145.36,0.00,02/28/2025,500.00,,12/01/2022,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,900.36"
+702-E Farmhurst Dr,"Sanders, Tameika",Current,775.00,"1,767.77","1,233.75",534.02,0.00,0.00,03/06/2025,"1,000.00",,12/01/2022,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,650.27"
+803-C High meadow ln,"Terrel, Dynesicus S.",Current,849.00,"1,736.25","1,311.45",424.80,0.00,0.00,01/23/2025,"1,311.45",,01/12/2017,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,611.35"
+849-J Farmhurst Dr,"Mason, Richard",Current,"1,750.00","1,494.90","1,260.00",234.90,0.00,0.00,03/03/2025,"1,400.00",,04/01/2021,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,374.90"
+803-K High meadow ln,"Hall, Richard",Current,800.00,"1,452.75","1,181.25",271.50,0.00,0.00,03/02/2025,300.00,,11/05/2021,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,340.25"
+807-A High Meadow Ln,"Hurtado Benavides, Francy R.",Current,"1,200.00","1,365.00","1,365.00",0.00,0.00,0.00,02/24/2025,365.00,,04/01/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,300.00"
+831-D Farmhurst Dr,"Castellanos, Creysi J.",Current,500.00,"1,365.00","1,065.00",300.00,0.00,0.00,03/03/2025,"1,000.00",,12/13/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,250.00"
+803-V High meadow ln,"Pineda Enriquez, Santos Armando",Current,"1,500.00","1,364.54","1,364.54",0.00,0.00,0.00,02/03/2025,400.00,,10/24/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,299.56"
+700-K Farmhurst Dr.,"RAMIREZ, YOLANDA",Current,"1,200.00","1,323.00","1,323.00",0.00,0.00,0.00,02/03/2025,300.00,,05/18/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,260.00"
+843-F Farmhurst Dr,"Pina, Cesar",Current,800.00,"1,265.75","1,260.00",5.75,0.00,0.00,03/06/2025,500.00,,08/16/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,200.00"
+805-E High Meadows Ln,"Robbins, Nicole",Current,"2,400.00","1,260.01","1,260.01",0.00,0.00,0.00,02/04/2025,"4,800.00",,02/19/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,200.00"
+807-H High Meadow Ln,"Lizarraga Rodriguez, Maikelis",Current,500.00,"1,170.00","1,170.00",0.00,0.00,0.00,03/09/2025,"1,170.00",,11/29/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,100.00"
+801-R High Meadow Ln,"Price, Jontae",Current,875.00,"1,147.13","1,147.13",0.00,0.00,0.00,03/05/2025,207.50,,10/22/2021,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,092.50"
+809-B High Meadow Ln,"FINNEY , ERIC",Current,"1,450.00","1,076.25","1,076.25",0.00,0.00,0.00,02/25/2025,"1,076.25",,07/01/2020,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,025.00"
+849-C Farmhurst Dr,"Thomas, Edith",Current,850.00,"1,069.95",0.00,"1,069.95",0.00,0.00,01/06/2025,"1,019.00",,10/03/2020,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,019.00"
+801-T High Meadow Ln,"Roseboro, Kevin",Current,975.00,"1,060.00","1,060.00",0.00,0.00,0.00,03/13/2025,200.00,,09/01/2022,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,007.50"
+837-B Farmhurst Dr,"Baptiste, Carlito",Current,725.00,"1,050.00","1,050.00",0.00,0.00,0.00,02/19/2025,"1,050.00",,01/01/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,000.00"
+720-N Farmhurst Dr.,"Garcia, Levis  A.",Current,500.00,"1,049.71","1,049.71",0.00,0.00,0.00,03/03/2025,50.00,,08/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,999.72
+805-S High Meadow Ln,"CRUZ, ROSMERY M.",Current,500.00,"1,047.50",997.50,50.00,0.00,0.00,02/06/2025,"1,000.00",,09/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,000.00"
+807-C High Meadow Ln,"Artiga, Yanira",Current,"1,200.00","1,000.00","1,000.00",0.00,0.00,0.00,03/10/2025,344.00,,04/06/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,936.00
+700-H Farmhurst Dr,"Perez Salero, Carlos",Current,500.00,"1,000.00",0.00,0.00,"1,000.00",0.00,02/05/2025,"1,000.00",,02/28/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"1,000.00"
+702-B Farmhurst Dr,"Flores, Jose",Current,"1,500.00",964.06,964.06,0.00,0.00,0.00,03/17/2025,700.00,,10/17/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,906.56
+819-K Farmhurst Dr.,"MEMBRENO, NEHEMIAS J.",Current,500.00,911.46,911.46,0.00,0.00,0.00,02/17/2025,75.00,,06/12/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,868.05
+855-B Farmhurst Dr,"URBANO, PEDRO",Current,745.00,880.50,880.50,0.00,0.00,0.00,03/12/2025,"1,000.00",,06/01/2019,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,828.75
+801-A High Meadow Ln,"REINE , JARED",Current,0.00,863.25,863.25,0.00,0.00,0.00,03/14/2025,75.00,,01/01/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,803.50
+833-E Farmhurst Dr,"Torrealba, Juan Carlos",Current,500.00,500.00,500.00,0.00,0.00,0.00,03/14/2025,550.00,,04/05/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,450.00
+847-B Farmhurst Dr,"Vega , Marcos  A.",Current,0.00,476.33,476.33,0.00,0.00,0.00,03/12/2025,250.00,,05/17/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,413.83
+702-K Farmhurst Dr,"WHITE, SEMYRA  D.",Current,520.00,441.00,441.00,0.00,0.00,0.00,03/17/2025,80.00,,12/01/2022,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,391.00
+809-R High Meadow Ln,"Weathers, Detra",Current,875.00,439.00,975.00,975.00,975.00,"-2,486.00",03/07/2025,"1,000.00",,04/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,"3,199.97"
+849-B Farmhurst Dr,"QUINTANILLA, YESTER A.",Current,"1,300.00",202.40,202.40,0.00,0.00,0.00,03/05/2025,"1,000.00",,05/15/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,192.76
+720-V Farmhurst Dr.,"Gomez, Doris  M.",Current,500.00,104.25,104.25,0.00,0.00,0.00,03/01/2025,15.00,,03/01/2025,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,85.00
+851-C Farmhurst Dr,"Pitts, Derrick J.",Current,800.00,94.82,94.82,0.00,0.00,0.00,03/17/2025,100.00,,10/19/2021,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,85.54
+829-H Farmhurst Dr,"SANTOS, ANA Y.",Current,500.00,81.20,81.20,0.00,0.00,0.00,03/04/2025,"1,000.00",,10/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,63.04
+847-G Farmhurst Dr,"SANTOS, FERNANDA  X.",Current,"1,300.00",81.20,81.20,0.00,0.00,0.00,03/04/2025,"1,300.00",,11/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,63.04
+843-B Farmhurst Dr,"MEMBRENO, JEHNNI  Y.",Current,"1,300.00",80.37,80.37,0.00,0.00,0.00,03/03/2025,"1,000.00",,09/10/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,62.25
+821-B Farmhurst Dr.,"LOPEZ RAMIREZ, YURI M.",Current,"1,200.00",80.37,80.37,0.00,0.00,0.00,03/03/2025,900.00,,10/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,62.25
+833-D Farmhurst Dr,"MEMBRENO, ORVIN",Current,"1,300.00",80.37,80.37,0.00,0.00,0.00,03/03/2025,"1,000.00",,10/04/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,62.25
+849-K Farmhurst Dr,"ALPIZAR, ISIDRO",Current,600.00,80.37,80.37,0.00,0.00,0.00,03/03/2025,300.00,,11/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,62.25
+853-E Farmhurst Dr,"Lopez, Eriz  Y.",Current,800.00,80.37,80.37,0.00,0.00,0.00,03/03/2025,350.00,,11/08/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,62.25
+843-E Farmhurst Dr.,"BAUTISTA, DERIS E.",Current,"1,300.00",80.01,80.01,0.00,0.00,0.00,03/05/2025,300.00,,09/20/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,61.91
+700-S Farmhurst Dr.,"Vargas Tovar, Ismel J.",Current,500.00,64.20,64.20,0.00,0.00,0.00,03/17/2025,"1,000.00",,12/16/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,64.20
+801-P High Meadow Ln,"Palma Palma, Evelyn R.",Current,500.00,60.00,110.00,0.00,0.00,-50.00,03/04/2025,"1,000.00",,10/25/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,95.00
+700-P Farmhurst Dr.,"TOVAR, WILMER",Current,"1,000.00",46.98,46.98,0.00,0.00,0.00,03/17/2025,100.00,,09/09/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,0.00
+805-B High Meadow Ln,"GUILLEN, ANA I.",Current,500.00,45.00,45.00,0.00,0.00,0.00,03/05/2025,"1,000.00",,01/01/2025,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,45.00
+803-A High meadow ln,"RAMIREZ, GLORIA S.",Current,600.00,45.00,45.00,0.00,0.00,0.00,03/03/2025,900.00,,01/01/2025,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,45.00
+805-W High Meadow Ln,"ROSES, LISANDRA  E.",Current,500.00,32.29,32.29,0.00,0.00,0.00,03/04/2025,"1,000.00",,11/19/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,30.75
+803-H High meadow ln,"Morales Euceda, Marlen Y.",Current,500.00,30.45,30.45,0.00,0.00,0.00,03/03/2025,"1,000.00",,01/03/2025,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,29.00
+819-B Farmhurst Dr,"REYES, FELIX A.",Current,500.00,20.00,20.00,0.00,0.00,0.00,03/01/2025,30.00,,03/01/2025,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,0.00
+855-D Farmhurst Dr,"Reyes, Doublas R.",Current,"1,000.00",15.00,15.00,0.00,0.00,0.00,03/01/2025,"1,000.00",,03/01/2025,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,0.00
+843-D Farmhurst Dr,"VELASQUEZ, GERSON",Current,700.00,15.00,15.00,0.00,0.00,0.00,03/01/2025,300.00,,03/01/2025,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,0.00
+803-B High meadow ln,"URBINA, OSCAR G.",Current,500.00,10.00,10.00,0.00,0.00,0.00,02/28/2025,100.00,,12/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,10.00
+833-C Farmhurst Dr,"Mosley, Oliver",Current,520.00,7.50,50.00,0.00,0.00,-42.50,03/03/2025,400.00,,12/01/2022,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,50.00
+849-D Farmhurst Dr,"MORENO, MELBIN  N.",Current,"1,300.00",5.00,5.00,0.00,0.00,0.00,03/05/2025,"1,000.00",,09/20/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,0.00
+821-K Farmhurst Dr.,"ALVARADO, SANDRA  Y.",Current,"1,000.00",0.98,0.98,0.00,0.00,0.00,03/03/2025,250.00,,05/05/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,0.98
+845-B Farmhurst DR,"Pineda, Rosa",Current,"1,300.00",0.50,0.53,0.00,0.00,-0.03,03/03/2025,"1,350.00",,10/01/2023,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,0.53
+805-P High Meadow Ln,"ROBELO, OSMAN",Current,"2,000.00",0.38,0.40,0.00,0.00,-0.02,03/03/2025,"1,000.00",,02/01/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,0.40
+819-A Farmhurst Dr,"Miranda Lopez, Candelaria",Current,"1,250.00",0.25,0.00,0.00,0.00,0.25,03/05/2025,250.00,,01/10/2024,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217",0.00,60.50
+807-V High Meadow Ln,"DASHIELL, RACHEL",Current,800.00,"-16,800.00",0.00,0.00,0.00,"-16,800.00",03/06/2025,"1,200.00",,08/01/2018,High Meadow Apartments,"825 Farmhurst Dr Charlotte, NC 28217","14,475.00",0.00
+,,,"55,334.00","24,911.11","33,101.25","8,244.42","2,943.74","-19,378.30",,"45,101.95",,,,,"14,475.00","41,980.60"
+"-> Hillside Manor Apartments - 1626 N Chestnut St Winston-Salem, NC 27105","","","","","","","","","","","","","","","",""
+1628 # 101 N Chestnut St,"Coleman, Maurice",Current,250.00,"1,470.00",735.00,735.00,0.00,0.00,01/17/2025,735.50,,07/13/2017,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,"1,400.00"
+1636 # B N Chestnut St,"Trinidad Dominguez, Luis  R.",Current,725.00,795.41,761.25,34.16,0.00,0.00,02/22/2025,750.00,,04/15/2024,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,725.00
+1634 # A N Chestnut St,"Crosby, Shayla  D.",Current,138.35,651.65,15.00,636.65,0.00,0.00,02/05/2025,"1,395.00",,02/07/2025,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,0.00
+1630 # 101 N Chestnut St,"White, Christopher A.",Current,625.00,116.25,116.25,0.00,0.00,0.00,03/08/2025,120.00,,12/24/2021,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,105.00
+1634 # D N Chestnut St,"Castaneda Valentin, Juana",Current,725.00,52.50,52.50,0.00,0.00,0.00,03/05/2025,775.00,,11/13/2023,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,50.00
+1638 # B N Chestnut St,"Williams - SECTION 8, Kenneth",Current,0.00,37.43,38.83,0.00,0.00,-1.40,03/01/2025,610.00,,06/10/2020,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,38.83
+1638 # F N Chestnut St,"Lucio Nazario, Italivi N.",Current,675.00,36.48,36.48,0.00,0.00,0.00,03/03/2025,675.00,,09/14/2022,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,34.74
+1630 # 202 N Chestnut St,"Orellana Vega, Kensy",Current,725.00,12.60,12.60,0.00,0.00,0.00,03/04/2025,750.00,,12/05/2024,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,12.00
+1634 # B N Chestnut St,"Brevard, Eddie L.",Current,725.00,0.75,0.75,0.00,0.00,0.00,03/03/2025,725.00,,11/16/2023,Hillside Manor Apartments,"1626 N Chestnut St Winston-Salem, NC 27105",0.00,0.71
+,,,"4,588.35","3,173.07","1,768.66","1,405.81",0.00,-1.40,,"6,535.50",,,,,0.00,"2,366.28"
+"-> Ivy Manor Apartments - 2914-C Ivy Avenue Winston-Salem, NC 27105","","","","","","","","","","","","","","","",""
+2918-A,"Valentin Pastrana, Miguel",Current,0.00,"1,609.03",551.25,551.25,506.53,0.00,02/21/2025,296.00,,12/01/2021,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,"1,530.28"
+2900-A,"Bernal Dominguez, Zitlalith",Current,80.00,815.04,220.04,0.00,0.00,595.00,03/18/2025,171.00,,09/30/2024,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,187.13
+2902-C,"Palma, Victoria",Current,0.00,761.25,708.75,708.75,18.75,-675.00,02/20/2025,740.00,,07/31/2024,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,"1,350.00"
+2902-D,"Valenzuela , Antonia",Current,650.00,681.98,681.98,0.00,0.00,0.00,02/26/2025,575.00,,01/02/2023,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,649.50
+2902-B,"Dominguez Zarate , Yanin",Current,0.00,671.04,0.00,0.00,671.04,0.00,03/03/2025,700.00,,12/23/2024,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,0.00
+2908-B,"Toscano Pastrana, Carmelo A.",Current,0.00,560.00,525.00,35.00,0.00,0.00,03/10/2025,550.00,,10/09/2023,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,510.00
+2902 A,"Dominguez Medina, Cleivis",Current,0.00,30.00,0.00,30.00,0.00,0.00,03/05/2025,675.00,,02/01/2025,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,0.00
+2916-D,"Ibarra Cruceno, Juan",Current,500.00,27.50,27.50,0.00,0.00,0.00,03/07/2025,525.00,,03/23/2024,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,1.25
+2910-A,"Avila Hernandez, Santa Cruz",Current,0.00,25.36,25.36,0.00,0.00,0.00,03/07/2025,510.00,,07/01/2022,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,0.00
+2900-B,"Martinez Montiel, Jose  J.",Current,0.00,22.00,0.00,0.00,0.00,22.00,03/05/2025,675.00,,09/18/2024,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,0.00
+2900-C,"Bruno Nava , Sebastian",Current,0.00,20.00,0.00,0.00,0.00,20.00,03/16/2025,670.00,,09/01/2024,Ivy Manor Apartments,"2914-C Ivy Avenue Winston-Salem, NC 27105",0.00,0.00
+,,,"1,230.00","5,223.20","2,739.88","1,325.00","1,196.32",-38.00,,"6,087.00",,,,,0.00,"4,228.16"
+"-> Lincoln Grove Apartments - 503-18 South O'henry Boulevard Greensboro, NC 27401","","","","","","","","","","","","","","","",""
+723 Jennifer St. Apt. 20,"Young Jr. - KEY, Edward",Current,700.00,"9,586.30",735.00,735.00,735.00,"7,381.30",03/03/2025,200.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"9,376.30"
+500 Gillespie St. # 07,"McNeil - Sect. 8, Nathan",Current,700.00,"9,146.25",735.00,735.00,735.00,"6,941.25",02/27/2025,196.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"8,702.00"
+"2003-G Spencer Street Greensboro, NC 27401","Armstrong - KEY, Kimberly",Current,700.00,"8,677.04",737.10,737.10,737.10,"6,465.74",03/05/2025,650.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"8,501.54"
+206-H Avalon Rd.,"Austin - Sect. 8, Cynthia",Current,300.00,"5,530.90",493.50,493.50,493.50,"4,050.40",05/02/2024,134.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",336.00,"5,316.00"
+"2003-C Spencer Street Greensboro, NC 27401","Washington - Sect. 8, Jesse",Current,300.00,"4,554.50",493.50,493.50,493.50,"3,074.00",09/06/2024,270.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",600.00,"4,390.00"
+"2003-J Spencer Street Greensboro, NC 27401","Manning, Quincy",Current,850.00,"4,230.38",849.75,849.75,849.75,"1,681.13",01/17/2025,500.00,,09/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"3,956.63"
+747 Jennifer St. # 03,"Tucker-Crite, Lolita",Current,300.00,"3,751.50",682.50,682.50,682.50,"1,704.00",01/31/2025,350.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"3,556.50"
+408 Gillespie St. # 27,"Morgan, Kabrera",Current,0.00,"3,720.63",682.50,682.50,682.50,"1,673.13",11/06/2024,650.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"3,525.63"
+503 S. O'henry Blvd # 13,"Strickland, Secoyha",Current,0.00,"2,758.02",682.50,682.50,682.50,710.52,10/15/2024,"1,950.00",,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"2,626.68"
+800 Lowdermilk St. Apt. M,"Smith, Joyce",Current,150.00,"2,042.50",682.50,682.50,677.50,0.00,03/05/2025,470.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,945.00"
+500 Gillespie St. # 09,"Bunch, Victoria",Current,150.00,"1,957.77",682.50,682.50,592.77,0.00,01/17/2025,150.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,860.27"
+501 S. O'henry Blvd # 21,"Walker, Kelly",Current,0.00,"1,802.25",907.50,894.75,0.00,0.00,02/13/2025,595.00,,02/08/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,850.00
+800 Lowdermilk St. Apt. D,"Cardwell Section 8, David",Current,0.00,"1,710.00",855.00,855.00,0.00,0.00,,,,02/01/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,600.00"
+747 Jennifer St. # 01,"Moore. Sect.8, Clara",Current,0.00,"1,707.50","1,707.50",0.00,0.00,0.00,,,,03/01/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,850.00
+747 Jennifer St. # 14,"Gomez, Jose G.",Current,850.00,"1,699.50",849.75,849.75,0.00,0.00,12/17/2024,290.00,,10/08/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,590.00"
+723 Jennifer St. Apt. 25,"Farlow, Billie F.",Current,800.00,"1,680.00",840.00,840.00,0.00,0.00,01/17/2025,800.00,,12/04/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,600.00"
+747 Jennifer St. # 09,"Flores, Jose G.",Current,800.00,"1,640.00",840.00,800.00,40.00,-40.00,03/12/2025,800.00,,12/01/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,640.00"
+408 Gillespie St. # 29,"Williamson, Diane",Current,350.00,"1,462.50",682.50,682.50,97.50,0.00,02/05/2025,150.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,365.00"
+500 Gillespie St. # 03,"Poole, Jacqueline",Current,0.00,"1,366.27",682.50,682.50,1.27,0.00,03/13/2025,375.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,300.00"
+723 Jennifer St. Apt. 22,"Shepard, Paul",Current,300.00,"1,344.40",682.50,661.90,0.00,0.00,03/04/2025,500.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,279.40"
+206-B Avalon Rd.,"McElrath, Jill",Current,300.00,"1,290.50",493.50,493.50,303.50,0.00,02/20/2025,470.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,"1,243.50"
+206-Q Avalon Rd,"Thompson, Robert",Current,300.00,"1,059.67",682.50,377.17,0.00,0.00,03/04/2025,527.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,994.67
+800 Lowdermilk St. Apt. K,"Cabanas, Eduardo",Current,100.00,"1,023.33",907.50,115.83,0.00,0.00,02/07/2025,850.00,,01/04/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,923.33
+500 Gillespie St. # 08,"Graves, Faith",Current,300.00,995.00,682.50,312.50,0.00,0.00,03/04/2025,150.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,930.00
+500 Gillespie St. # 02,"Kore, Elhtoglo  C.",Current,850.00,935.00,892.50,42.50,0.00,0.00,02/05/2025,850.00,,08/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,850.00
+747 Jennifer St. # 07,"Frazier, Tyrone  P.",Current,850.00,892.50,892.50,0.00,0.00,0.00,02/19/2025,920.00,,02/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,850.00
+501 S. O'henry Blvd # 24,"Springs, Charles R.",Current,800.00,836.00,836.00,0.00,0.00,0.00,03/03/2025,656.00,,12/15/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,796.00
+800 Lowdermilk St. Apt. G,"Stimpson, Rayshawn",Current,300.00,761.72,761.25,0.47,0.00,0.00,02/20/2025,260.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,725.00
+"2003-B Spencer Street Greensboro, NC 27401","Lewis, Carolyn",Current,350.00,715.00,682.50,32.50,0.00,0.00,02/05/2025,650.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,650.00
+206-G Avalon Rd.,"Ransom - Sect. 8, James",Current,300.00,573.00,573.00,0.00,0.00,0.00,03/03/2025,795.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,533.25
+503 S. O'henry Blvd # 16,"Rutledge, Stavonna S.",Current,850.00,512.97,512.97,0.00,0.00,0.00,03/03/2025,350.00,,12/06/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,488.54
+723 Jennifer St. Apt. 21,"Tonkins, Derek",Current,150.00,442.88,442.88,0.00,0.00,0.00,02/05/2025,150.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,421.79
+503 S. O'henry Blvd # 12,"Gordon, Brittay",Current,800.00,418.25,418.25,0.00,0.00,0.00,03/03/2025,50.00,,03/03/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,398.33
+747 Jennifer St. # 08,"Charest, Jason A.",Current,850.00,400.00,400.00,0.00,0.00,0.00,03/11/2025,449.75,,11/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,345.25
+503 S. O'henry Blvd # 17,"Edwards, Rose",Current,0.00,378.00,378.00,0.00,0.00,0.00,03/04/2025,650.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,360.00
+408 Gillespie St. # 34,"Murphy - Sect. 8, Tammie",Current,150.00,293.00,293.00,0.00,0.00,0.00,03/04/2025,293.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",366.14,293.00
+800 Lowdermilk St. Apt. A,"Purvis, Evelyn",Current,99.00,244.13,244.13,0.00,0.00,0.00,03/04/2025,130.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,232.50
+503 S. O’henry Blvd # 10,"Clyburn, Stephanie",Current,0.00,210.90,210.90,0.00,0.00,0.00,02/25/2025,379.00,,01/08/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401","1,772.40",200.85
+747 Jennifer St. # 10,"Dudley - Sect. 8, Mary",Current,300.00,194.00,194.00,0.00,0.00,0.00,03/04/2025,194.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",422.40,194.00
+"2003-K Spencer Street Greensboro, NC 27401","Wolfe- Sect.8, Wanda",Current,700.00,175.35,175.35,0.00,0.00,0.00,03/03/2025,745.00,,08/15/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",275.70,167.00
+206-F Avalon Rd,"Awbe, Bitokenja",Current,850.00,151.50,151.50,0.00,0.00,0.00,03/03/2025,850.00,,11/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,130.00
+747 Jennifer St. # 12,"Mendoza, Marlon J.",Current,850.00,139.64,139.64,0.00,0.00,0.00,03/02/2025,850.00,,01/26/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,118.70
+503 S. O’henry  Blvd # 14,"Dean, Ellen",Current,300.00,118.65,118.65,0.00,0.00,0.00,03/05/2025,100.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,113.00
+723 Jennifer St. Apt. 23,"Bu Santamaria, Rudy E.",Current,850.00,98.74,98.74,0.00,0.00,0.00,03/05/2025,295.00,,10/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,79.75
+800 Lowdermilk St. Apt. E,"Davis, Jimmy",Current,0.00,92.40,92.40,0.00,0.00,0.00,03/05/2025,650.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,88.00
+408 Gillespie St. # 30,"Funderburk - Sect. 8, Mitchell",Current,0.00,76.65,76.65,0.00,0.00,0.00,03/03/2025,601.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401","1,955.00",73.00
+800 Lowdermilk St. Apt. B,"Perez Collado, Javier Amdkr",Current,850.00,72.75,72.75,0.00,0.00,0.00,03/04/2025,850.00,,01/15/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,55.00
+"2003-D Spencer Street Greensboro, NC 27401","Avalos Martinez , Marlon",Current,750.00,71.70,71.70,0.00,0.00,0.00,03/03/2025,795.00,,10/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,54.00
+501 S. O'henry Blvd # 19,"Jones - Sect. 8, Adrienne",Current,150.00,51.30,54.00,0.00,0.00,-2.70,03/03/2025,741.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",2.70,54.00
+"2003-F Spencer Street Greensboro, NC 27401","Gregory, Xavier",Current,300.00,46.88,46.88,0.00,0.00,0.00,03/05/2025,150.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,44.64
+500 Gillespie St. # 05,"Bates, Lynda",Current,0.00,44.63,44.63,0.00,0.00,0.00,03/04/2025,850.00,,08/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,42.50
+408 Gillespie St. # 31,"Jackson - Sect. 8, Debra",Current,200.00,39.75,39.75,0.00,0.00,0.00,03/03/2025,593.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,29.65
+503 S. O'henry Blvd # 15,"Styles, Brenda",Current,150.00,34.13,34.13,0.00,0.00,0.00,03/04/2025,650.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,32.50
+723 Jennifer St. Apt. 15,"Laines-Mendez, Junieth A.",Current,800.00,33.60,33.60,0.00,0.00,0.00,03/05/2025,350.00,,08/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,32.00
+501 S. O'henry Blvd # 25,"Laines, Jorge",Current,850.00,33.07,33.07,0.00,0.00,0.00,03/11/2025,850.00,,01/03/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,0.00
+"2003-H Spencer Street Greensboro, NC 27401","Soto-Ibarra, Alma Y.",Current,850.00,30.50,30.50,0.00,0.00,0.00,03/12/2025,820.00,,10/01/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,0.00
+"2003-A Spencer Street Greensboro, NC 27401","Breedon, Sharine",Current,300.00,24.68,24.68,0.00,0.00,0.00,03/05/2025,470.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,23.50
+501 S. O'henry Blvd. # 20,"Jones - Sect. 8, Evelyn",Current,99.00,19.10,19.10,0.00,0.00,0.00,03/04/2025,191.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,9.55
+723 Jennifer St. Apt. 17,"Whitaker, Keionta D.",Current,850.00,15.75,15.75,0.00,0.00,0.00,02/26/2025,850.00,,03/01/2025,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,15.00
+800 Lowdermilk St. Apt. L,"Brown- Sect. 8, Faye",Current,200.00,11.73,11.73,0.00,0.00,0.00,03/11/2025,204.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,11.73
+408 Gillespie St. # 33,"Negrete Angeles, Flor I.",Current,750.00,4.25,104.25,0.00,0.00,-100.00,03/04/2025,814.25,,10/04/2024,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",0.00,85.00
+723 Jennifer St. Apt. 18,"Beverly, Jr. - Sect. 8, Collins",Current,700.00,-218.21,51.35,181.65,0.00,-451.21,03/11/2025,200.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401",168.00,224.35
+408 Gillespie St. # 32,"Hawkins - Sect. 8, Linda",Current,300.00,-940.00,0.00,0.00,0.00,-940.00,03/05/2025,183.00,,10/17/2023,Lincoln Grove Apartments,"503-18 South O'henry Boulevard Greensboro, NC 27401","2,108.00",0.00
+,,,"26,548.00","82,772.60","27,542.28","15,278.87","7,803.89","32,147.56",,"31,456.00",,,,,"8,006.34","78,743.83"
+"-> Lynnwood Garden Apartments - 903 Lynn St Apt M Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+805-L,"Torrealba, Ali",Current,500.00,"4,410.00","1,260.00","1,260.00","1,260.00",630.00,11/25/2024,600.00,,11/25/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"4,200.00"
+803-D,"LOUIS, OLGA",Current,0.00,"4,325.00","1,065.00","1,065.00","1,065.00","1,130.00",01/19/2025,"1,000.00",,10/31/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"4,000.00"
+751-A,"Hammond, Brandon",Current,525.00,"2,462.87",682.50,682.50,682.50,415.37,01/31/2025,250.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"2,332.87"
+751-N,"Taylor, Dujuan",Current,650.00,"2,162.47",840.00,840.00,482.47,0.00,01/06/2025,570.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"2,042.47"
+801-H,"Mejia Rodriguez, Ramon W.",Current,600.00,"2,115.50","1,207.50",908.00,0.00,0.00,02/14/2025,"1,000.00",,06/26/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"2,000.50"
+803-F,"Oliver, Ramona",Current,99.00,"2,016.00","1,008.00","1,008.00",0.00,0.00,01/07/2025,432.58,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,920.00"
+903-N,"Baxter, Joshua",Current,700.00,"1,690.00",840.00,840.00,10.00,0.00,02/22/2025,450.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,600.00"
+805-D,"CACHO, JENSY  T.",Current,800.00,"1,275.00","1,275.00",0.00,0.00,0.00,03/03/2025,215.00,,10/16/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,200.00"
+801-L,"LARA LOZANO , NOE A.",Current,600.00,"1,274.50","1,274.50",0.00,0.00,0.00,03/10/2025,286.00,,11/15/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,199.50"
+801-O,"Peyton, A.D.",Current,875.00,"1,260.00","1,102.50",157.50,0.00,0.00,02/28/2025,"1,050.00",,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,155.00"
+803-J,"Martinez, Vladimir",Current,600.00,"1,206.98","1,206.98",0.00,0.00,0.00,02/05/2025,150.00,,06/19/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,149.50"
+901-B,"ORTEGA ILOVAREZ, LILIANA M.",Current,500.00,"1,158.30","1,143.75",14.55,0.00,0.00,02/11/2025,300.00,,12/10/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,075.00"
+801-K,"Gonzalez, Alex",Current,500.00,"1,143.75","1,143.75",0.00,0.00,0.00,02/05/2025,90.00,,12/27/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,075.00"
+805-K,"Lopez Martinez, Edwin Josue",Current,500.00,"1,127.44","1,127.44",0.00,0.00,0.00,02/27/2025,330.00,,12/14/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,073.75"
+905-B,"Person, Gwendolyn",Current,900.00,"1,110.50","1,102.50",8.00,0.00,0.00,02/19/2025,"1,095.00",,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,"1,050.00"
+905-J,"Fewell, Lomonda",Current,900.00,945.00,945.00,0.00,0.00,0.00,02/17/2025,910.00,,04/29/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,900.00
+751-O,"BATRES GONZALEZ, AURA E.",Current,400.00,933.75,933.75,0.00,0.00,0.00,02/21/2025,933.75,,10/31/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,875.00
+801-B,"Jackson, Alexis",Current,"1,000.00",918.49,918.49,0.00,0.00,0.00,02/20/2025,919.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,874.75
+801-I,"McLaughlin, Duncan",Current,875.00,907.29,907.29,0.00,0.00,0.00,02/27/2025,920.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,864.08
+905-F,"Dodd, Desmond",Current,725.00,894.75,761.25,133.50,0.00,0.00,02/28/2025,300.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,822.25
+805-B,"Barrett, Andrew",Current,850.00,887.41,887.41,0.00,0.00,0.00,03/04/2025,490.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,845.15
+751-L,"Hope, Jazzmeen",Current,99.00,850.50,850.50,0.00,0.00,0.00,02/03/2025,810.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,810.00
+803-A,"Paz, Willy",Current,600.00,708.00,708.00,0.00,0.00,0.00,03/17/2025,500.00,,06/26/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,650.50
+801-D,"Moore, Monique",Current,875.00,387.75,387.75,0.00,0.00,0.00,03/17/2025,386.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,344.00
+905-H,"REYES TAVERAS , JERLY  J.",Current,500.00,339.75,339.75,0.00,0.00,0.00,03/09/2025,75.00,,11/27/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,320.00
+901-N,"Baker, Rochard",Current,900.00,329.98,329.98,0.00,0.00,0.00,03/10/2025,800.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,277.48
+905-D,"Threatt, Bonnie",Current,925.00,295.73,295.73,0.00,0.00,0.00,03/11/2025,500.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,257.83
+751-F,"Nash, Nicole",Current,"1,000.00",203.49,203.49,0.00,0.00,0.00,03/14/2025,660.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,170.49
+803-M,"Zambrano Rivera, Alex Ivan",Current,500.00,202.46,202.46,0.00,0.00,0.00,03/05/2025,200.00,,07/15/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,143.19
+801-G,"Watson, Darryl",Current,850.00,202.00,202.00,0.00,0.00,0.00,03/07/2025,150.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,158.00
+803-C,"Cooper, Rodney",Current,495.00,183.78,183.78,0.00,0.00,0.00,03/03/2025,700.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,175.02
+751-K,"Metz, Lamar",Current,420.00,156.99,156.99,0.00,0.00,0.00,03/05/2025,765.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,118.74
+901-L,"MALDONADO BANEGAS, EVER OMAR",Current,600.00,130.50,130.50,0.00,0.00,0.00,03/05/2025,"1,000.00",,10/05/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,60.00
+903-B,"Ambrosio Pacheco, Juan Daniel",Current,500.00,127.70,73.95,53.75,0.00,0.00,03/05/2025,75.00,,11/11/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,70.42
+905-G,"Leyton Ortiz, Jose Alejandro",Current,500.00,110.18,110.18,0.00,0.00,0.00,03/18/2025,130.00,,11/18/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,56.43
+903-H,"LOPEZ MONTES, JOSE  W.",Current,600.00,78.08,78.08,0.00,0.00,0.00,03/03/2025,595.00,,10/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,61.50
+903-G,"ROQUE ALVARADO, CARLOS  A.",Current,600.00,78.00,78.00,0.00,0.00,0.00,03/04/2025,75.00,,09/27/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,60.00
+803-P,"Seslar , Marlen  E.",Current,900.00,55.00,76.54,0.00,0.00,-21.54,03/05/2025,200.00,,09/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,61.54
+751-G,"PIERRE, GUIVENSON",Current,600.00,47.29,47.29,0.00,0.00,0.00,03/03/2025,750.00,,10/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,30.75
+801-J,"Mejia Gaton, Fernando",Current,500.00,31.54,31.54,0.00,0.00,0.00,03/03/2025,"1,075.00",,12/12/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,30.75
+901-P,"ARTEAGA RODRIGUEZ, JOSE DANIEL",Current,600.00,31.50,31.50,0.00,0.00,0.00,03/04/2025,"1,200.00",,10/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,30.00
+751-D,"MARTINEZ, LESLY M.",Current,500.00,30.76,30.76,0.00,0.00,0.00,03/04/2025,825.00,,12/27/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,15.04
+903-L,"URQUIA SARAVIA, NEVIN  E.",Current,600.00,30.75,30.75,0.00,0.00,0.00,03/05/2025,"1,195.00",,09/25/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,15.00
+903-D,"HERNANDEZ MARTINEZ, HENRY  N.",Current,400.00,24.75,24.75,0.00,0.00,0.00,03/05/2025,200.00,,10/30/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,9.75
+751-U,"Wilson, Howard",Current,600.00,20.00,20.00,0.00,0.00,0.00,03/17/2025,500.00,,08/01/2023,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,0.00
+805-N,"MORA MINO, ANA H.",Current,500.00,15.75,15.75,0.00,0.00,0.00,03/05/2025,75.00,,12/27/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,15.00
+901-I,"MEMBRENO MONTES, JOSE EDUARDO",Current,600.00,9.00,9.00,0.00,0.00,0.00,03/04/2025,"1,200.00",,10/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,0.00
+751-W,"Torrence, Shanterry",Current,"1,930.00",2.50,2.50,0.00,0.00,0.00,01/23/2025,840.00,,01/23/2025,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,2.50
+903-P,"Nieto Hidalgo, Yonny  L.",Current,600.00,0.95,0.95,0.00,0.00,0.00,03/05/2025,"1,200.00",,07/03/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,0.90
+805-I,"Bowser, Shamise",Current,995.00,0.60,0.60,0.00,0.00,0.00,03/05/2025,995.00,,05/01/2024,Lynnwood Garden Apartments,"903 Lynn St Apt M Charlotte, NC 28208",0.00,0.60
+,,,"32,388.00","38,910.28","26,285.68","6,970.80","3,499.97","2,153.83",,"29,967.33",,,,,0.00,"36,200.25"
+"-> Marble St Apartments - 1118 Marble St Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+1108 Marble St.  Apt. # E,"Okello, Sheronica - (S.A)",Current,444.47,"4,667.30","1,326.25","1,221.25","1,221.25",898.55,12/19/2024,337.10,,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"4,277.30"
+1108 Marble St.  Apt. # C,"Sandres Rosales, Orlin W.",Current,500.00,"4,019.00","1,254.75","1,254.75","1,254.75",254.75,02/11/2025,"1,000.00",,10/30/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"3,780.00"
+1106 Marble St.  Apt. # D,"Service, Yvonne",Current,825.00,"3,230.00","1,615.00","1,615.00",0.00,0.00,01/02/2025,"1,540.00",,08/21/2019,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"3,000.00"
+1035  Marble St. Apt. # J,"Thompson, Jamila",Current,0.00,"2,538.34","1,221.25","1,221.25",95.84,0.00,02/26/2025,708.00,bond,12/13/2023,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"2,250.00"
+1114 Marble St. Apt # F,"Jones, Korean",Current,"1,100.00","2,442.50","1,221.25","1,221.25",0.00,0.00,02/20/2025,500.00,,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"2,250.00"
+1120 Marble St. Apt # E,"Mercado, Alejandra",Current,600.00,"2,216.75","1,254.75",962.00,0.00,0.00,02/06/2025,547.50,,07/19/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"2,097.25"
+1118 Marble St. Apt # B,"Obie, Timothy",Current,0.00,"1,911.94","1,206.25",705.69,0.00,0.00,02/04/2025,"1,034.00",,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,805.69"
+1112 Marble St. Apt # H,"VASQUEZ GRANADOS, GLENDA  NOHEMY",Current,600.00,"1,619.85","1,254.75",365.10,0.00,0.00,03/06/2025,200.00,,08/12/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,500.35"
+1124 Marble St. Apt # A,"Pearson, Phillip",Current,99.00,"1,484.63","1,300.00",184.63,0.00,0.00,03/03/2025,"1,200.00",,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,289.63"
+1102 Marble St. # C,"HAU CRUZ, KUOCK WENG RAUL",Current,600.00,"1,440.00","1,260.00",180.00,0.00,0.00,03/04/2025,"1,200.00",,09/28/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,320.00"
+1102 Marble St. # A,"Pena, Jose Efrain",Current,600.00,"1,434.00","1,254.75",179.25,0.00,0.00,03/01/2025,"1,195.00",,08/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,314.50"
+1120 Marble St. Apt # D,"Gray, Deshawn",Current,550.00,"1,396.50","1,396.50",0.00,0.00,0.00,02/24/2025,"1,365.00",,03/12/2012,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,330.00"
+1116 Marble St. Apt # F,"Batres Renderos, Marta E.",Current,600.00,"1,365.00","1,365.00",0.00,0.00,0.00,03/04/2025,"1,365.00",,07/01/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,300.00"
+1037 Marble St.  Apt. # D,"CERCADO MUNOZ, JESSENIA STEFANIA",Current,600.00,"1,359.00","1,254.75",104.25,0.00,0.00,03/05/2025,"1,200.00",,10/31/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,239.50"
+1100 Marble St.  Apt. # C,"Jacobs, Mary",Current,690.00,"1,326.25","1,326.25",0.00,0.00,0.00,01/31/2025,"1,165.00",,03/04/2016,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,225.00"
+1118 Marble St. Apt # D,"Neal, Juawana",Current,630.00,"1,300.00","1,300.00",0.00,0.00,0.00,02/26/2025,"1,195.00",,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,200.00"
+1037 Marble St.  Apt. # A,"Cordova Rondan, Luis D",Current,800.00,"1,269.75","1,269.75",0.00,0.00,0.00,02/07/2025,"1,269.75",,10/28/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,195.00"
+1037 Marble St.  Apt. # C,"BAEZ LORENZO, CIRILO",Current,500.00,"1,269.25","1,269.25",0.00,0.00,0.00,03/05/2025,"1,295.00",,11/29/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,195.00"
+1116 Marble St. Apt # D,"Vallejo , Felipe Omar",Current,600.00,"1,260.00","1,260.00",0.00,0.00,0.00,03/06/2025,"1,260.00",,08/01/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,200.00"
+1106 Marble St.  Apt. # E,"FLORES , ALMA L.",Current,600.00,"1,260.00","1,260.00",0.00,0.00,0.00,03/10/2025,260.00,,08/09/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,200.00"
+1120 Marble St. Apt # C,"Abreu Valdez, MAYRENE",Current,600.00,"1,254.75","1,254.75",0.00,0.00,0.00,02/05/2025,"1,195.00",,07/19/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,195.00"
+1037 Marble St.  Apt. # J,"Vega Aguilar, Jacqueline Del Carmen",Current,250.00,"1,254.75","1,254.75",0.00,0.00,0.00,03/02/2025,"1,254.75",,10/18/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,195.00"
+1116 Marble St. Apt # B,"Perez , Liz",Current,600.00,"1,250.50","1,250.50",0.00,0.00,0.00,03/08/2025,"1,256.00",,07/16/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,190.75"
+1110 Marble St. Apt # E,"Gleaton, LaTisha",Current,550.00,"1,195.00","1,195.00",0.00,0.00,0.00,02/20/2025,"1,090.00",,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,"1,100.00"
+1124 Marble St. Apt # C,"Clyburn, Julsan",Current,0.00,"1,068.82","1,068.82",0.00,0.00,0.00,02/26/2025,"1,000.00",bond,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,979.82
+1124 Marble St. Apt # G,"Brown -Section 8, Eugenia",Current,0.00,"1,055.62","1,055.62",0.00,0.00,0.00,02/04/2025,"1,101.00",,12/11/2023,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,967.25
+1118 Marble St. Apt # G,"SANDRES VEGA, NOHELIA SARAHI",Current,600.00,714.00,714.00,0.00,0.00,0.00,03/01/2025,"1,250.00",,09/15/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,680.00
+1122 Marble St. Apt # C,"RIOS CASTILLANO, MERCEDES DEL SOCORRO",Current,600.00,620.65,620.65,0.00,0.00,0.00,03/03/2025,695.00,,12/20/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,591.09
+1116 Marble St. Apt # E,"Beltre, Kelvin",Current,600.00,426.22,426.22,0.00,0.00,0.00,03/08/2025,"1,095.00",,07/19/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,366.47
+1114 Marble St. Apt # E,"Palacios, Rebeca",Current,600.00,106.37,106.37,0.00,0.00,0.00,03/07/2025,"1,250.00",,08/22/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,43.87
+1122 Marble St. Apt # D,"Howard -(S.A), Tamarian",Current,90.53,84.08,84.08,0.00,0.00,0.00,02/28/2025,"1,225.00",,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,41.98
+1120 Marble St. Apt # G,"VALLE, JOSE",Current,600.00,76.67,76.67,0.00,0.00,0.00,03/05/2025,"1,215.00",,09/27/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,73.01
+1102 Marble St. # B,"RODRIGUEZ GUEVARA, ASTRID MAYENSI",Current,600.00,74.75,74.75,0.00,0.00,0.00,03/11/2025,"1,210.00",,10/01/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,0.00
+1120 Marble St. Apt # B,"RODDRIGUEZ, DARWIN",Current,600.00,62.25,62.25,0.00,0.00,0.00,03/05/2025,"1,215.00",,09/30/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,45.00
+1112 Marble St. Apt # A,"Hargrove, Collette",Current,350.00,39.88,39.88,0.00,0.00,0.00,03/05/2025,550.00,,04/23/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,0.00
+1112 Marble St. Apt # G,"Valdez Perez, Juan A.",Current,500.00,4.83,4.83,0.00,0.00,0.00,03/07/2025,"1,250.00",,12/13/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,0.00
+1124 Marble St. Apt # D,"CALLEJAS CALLEJAS, SAUL",Current,800.00,0.05,0.05,0.00,0.00,0.00,03/05/2025,"1,210.00",,09/03/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,0.00
+1110 Marble St. Apt # A,"PEREZ MEJIA, MARVIN  J.",Current,400.00,0.04,0.04,0.00,0.00,0.00,03/02/2025,"1,241.50",,10/31/2024,Marble St Apartments,"1118 Marble St Charlotte, NC 28208",0.00,0.00
+,,,"19,279.00","48,099.29","35,159.73","9,214.42","2,571.84","1,153.30",,"40,139.60",,,,,0.00,"44,438.46"
+"-> MountainCrest Drive - 2417 E Ozark Avenue Suite 1 Gastonia, NC 28054","","","","","","","","","","","","","","","",""
+1054 MountainCrest Drive,"Rock, Jaquayla",Current,0.00,"1,711.00","1,375.50",335.50,0.00,0.00,03/13/2025,300.00,,07/01/2021,MountainCrest Drive,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,580.00"
+1063 MountainCrest Drive,"Curry, Chris  A.",Current,695.00,"1,134.00","1,134.00",0.00,0.00,0.00,02/05/2025,80.00,,01/03/2022,MountainCrest Drive,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,080.00"
+1046 MountainCrest Drive,"Perry, Alexandra",Current,0.00,966.00,966.00,0.00,0.00,0.00,02/06/2025,296.00,,05/01/2021,MountainCrest Drive,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,920.00
+,,,695.00,"3,811.00","3,475.50",335.50,0.00,0.00,,676.00,,,,,0.00,"3,580.00"
+"-> New Garden Apartments, LLC - 1622 McPherson Street Greensboro, NC 27405","","","","","","","","","","","","","","","",""
+1916 Apt-K,"Tolbert- KEY , Christopher",Current,0.00,"8,171.50",535.50,535.50,535.50,"6,565.00",,,,01/01/2023,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"7,140.00"
+1912 Apt-E,"Harrison , Kiana J.",Current,850.00,"5,477.50",892.50,892.50,892.50,"2,800.00",01/17/2025,500.00,,05/04/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"5,280.00"
+1916 Apt-L,"Shields - Sect.8, Richard",Current,300.00,"3,467.50",535.50,535.50,535.50,"1,861.00",03/18/2025,250.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"3,340.00"
+1515 Apt-D,"Lobo, Pablo D.",Current,850.00,"2,820.00",892.50,892.50,892.50,142.50,01/17/2025,"1,785.00",,08/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"2,650.00"
+1509 Apt-L,"Pertuz, Katherin U.",Current,850.00,"2,805.00",892.50,892.50,892.50,127.50,03/04/2025,500.00,,06/15/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"2,635.00"
+1914 Apt-B,"Funicello-Roseboro-Sect.8, Annette",Current,300.00,"2,571.35",429.45,429.45,429.45,"1,283.00",03/12/2025,188.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"2,510.00"
+1515 Apt-A,"Hampton-Sect.8, Leslie Y.",Current,300.00,"2,415.00",483.00,483.00,483.00,966.00,10/03/2024,677.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"2,300.00"
+1511 Apt-G,"Munoz, Luis F.",Current,850.00,"2,142.50",907.50,907.50,327.50,0.00,02/03/2025,850.00,,11/18/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,970.00"
+1914 Apt-K,"Shoffner, Mia",Current,300.00,"2,141.36",481.95,481.95,481.95,695.51,02/26/2025,150.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"2,026.61"
+1914 Apt-C,"Bell, Broderick S.",Current,50.00,"1,937.50",822.50,"1,115.00",0.00,0.00,02/03/2025,50.00,,02/13/2025,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,150.00"
+1515 Apt-G,"Medina , Roxana",Current,0.00,"1,900.00",682.50,682.50,535.00,0.00,10/17/2024,550.00,,08/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,802.50"
+1509 Apt-G,"Oliver, Shanikqua H.",Current,0.00,"1,785.00",892.50,892.50,0.00,0.00,01/10/2025,192.50,,07/27/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,700.00"
+1509 Apt-E,"Graves- Sect.8, Tonya",Current,300.00,"1,615.45",371.70,371.70,834.75,37.30,03/04/2025,335.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,540.30"
+1914 Apt-M,"Rangel, Cesar  A.",Current,850.00,"1,552.63",986.25,608.88,0.00,-42.50,03/11/2025,950.00,,12/13/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,487.63"
+1511 Apt-J,"Turner Jr., Page",Current,300.00,"1,470.00",630.00,630.00,210.00,0.00,02/24/2025,100.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,380.00"
+1511 Apt-A,"Bullard-B-Sect.8, Delaine",Current,300.00,"1,366.87",446.25,70.62,425.00,425.00,01/17/2025,425.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405","1,850.00","1,342.25"
+1511 Apt-M,"Chavez, Selvin",Current,850.00,"1,312.75",907.50,405.25,0.00,0.00,03/01/2025,500.00,,12/13/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,212.75"
+1912 Apt-F,"Hunter, Redmond D.",Current,950.00,"1,280.00",907.50,372.50,0.00,0.00,02/24/2025,100.00,,12/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,165.00"
+1509 Apt-F,"Lennon, Osiris",Current,300.00,"1,173.00",535.50,535.50,102.00,0.00,02/26/2025,510.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,096.50"
+1515 Apt-F,"Hayes, Davida J.",Current,850.00,"1,145.83",907.50,238.33,0.00,0.00,02/20/2025,350.00,,02/07/2025,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,123.33"
+1916 Apt-J,"Rebollar Jr, Benito",Current,850.00,"1,060.00",892.50,210.00,0.00,-42.50,02/20/2025,500.00,,08/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,"1,060.00"
+1912 Apt-C,"Alonso-Jaimes, Luis F.",Current,750.00,977.50,892.50,85.00,0.00,0.00,02/20/2025,850.00,,03/02/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,892.50
+1912 Apt-L,"Vega Ruiz, Isaac",Current,750.00,935.00,892.50,42.50,0.00,0.00,02/05/2025,850.00,,03/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,850.00
+1509 Apt-C,"Rebollar, Benito",Current,850.00,927.50,892.50,35.00,0.00,0.00,02/21/2025,900.00,,08/15/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,850.00
+1912 Apt-M,"Cruz Gonzalez, Daudelio Herman",Current,750.00,915.69,892.50,23.19,0.00,0.00,02/24/2025,895.00,,06/07/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,850.00
+1914 Apt-F,"Taweh, Maima",Current,300.00,907.50,682.50,225.00,0.00,0.00,02/26/2025,650.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,842.50
+1914 Apt-A,"Byrd-Sect.8, Ronnie",Current,0.00,869.10,223.95,223.95,223.95,197.25,03/12/2025,398.00,,10/19/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",122.00,769.30
+1515 Apt-E,"Doomes, Phillip",Current,0.00,665.44,665.44,0.00,0.00,0.00,03/04/2025,250.00,,12/13/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,633.75
+1511 Apt-F,"Lewis, Jessica",Current,300.00,645.23,645.23,0.00,0.00,0.00,02/22/2025,960.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,614.50
+1511 Apt-L,"Acosta-Marquez, Rocio",Current,850.00,374.10,374.10,0.00,0.00,0.00,03/17/2025,850.00,,06/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,374.10
+1511 Apt-B,"Aguilar-Cervantes, Manuel",Current,850.00,263.39,263.39,0.00,0.00,0.00,03/05/2025,850.00,,12/03/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,250.84
+1511 Apt-H,"Elumba, Mtabala",Current,850.00,207.15,207.15,0.00,0.00,0.00,03/12/2025,500.00,,10/08/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,149.65
+1511 Apt-C,"Baker, Brandon M.",Current,850.00,178.50,178.50,0.00,0.00,0.00,03/03/2025,850.00,,08/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,170.00
+1916 Apt-B,"Williams-Sect.8, Quincy",Current,300.00,177.97,177.97,0.00,0.00,0.00,03/04/2025,162.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,139.35
+1509 Apt-B,"Tercero-Rivera , Heynner J.",Current,850.00,134.97,134.97,0.00,0.00,0.00,03/04/2025,850.00,,11/04/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,114.25
+1511 Apt-D,"Garcia Lopez, Veronica",Current,750.00,127.50,127.50,0.00,0.00,0.00,03/11/2025,850.00,,04/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,85.00
+1916 Apt-C,"McDuffie, Daniel",Current,300.00,105.00,105.00,0.00,0.00,0.00,03/04/2025,550.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,100.00
+1914 Apt-G,"Fragoso, Olga L.",Current,"1,000.00",95.00,95.00,0.00,0.00,0.00,03/12/2025,450.00,,03/02/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,47.50
+1509 Apt-H,"Jarquin-Aguilar, Daniel A.",Current,850.00,74.50,74.50,0.00,0.00,0.00,03/11/2025,15.00,,11/04/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,17.00
+1914 Apt-D,"Gutierrez, Omar",Current,750.00,71.94,71.94,0.00,0.00,0.00,03/11/2025,150.00,,03/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,34.44
+1916 Apt-H,"Thornton, Lynnidia",Current,300.00,53.55,53.55,0.00,0.00,0.00,03/04/2025,510.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,51.00
+1916 Apt-G,"Miranda-Mendoza, Frank A.",Current,850.00,46.87,46.87,0.00,0.00,0.00,03/05/2025,850.00,,06/14/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,44.63
+1511 Apt-K,"Astengo Carbonell, Jorge C.",Current,750.00,44.63,44.63,0.00,0.00,0.00,03/05/2025,500.00,,03/21/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,42.50
+1509 Apt-D,"Hidalgo, Shirley",Current,300.00,32.50,32.50,0.00,0.00,0.00,03/11/2025,650.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,0.00
+1511 Apt-E,"Zambrano, Erika",Current,850.00,29.82,29.82,0.00,0.00,0.00,03/07/2025,900.00,,12/14/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,0.00
+1515 Apt-J,"Gutierrez-Arias, Adriana",Current,850.00,27.96,27.96,0.00,0.00,0.00,03/04/2025,365.00,,11/13/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,12.34
+1511 Apt-N,"McCrawford, Nannie",Current,300.00,25.36,25.36,0.00,0.00,0.00,03/04/2025,460.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,24.15
+1912 Apt-H,"Rainford-Sect.8, Shelia",Current,300.00,2.13,0.00,2.13,0.00,0.00,03/03/2025,850.00,,05/15/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",0.00,2.13
+1515 Apt-L,"Batts-Sect.8, Jonell",Current,300.00,-256.00,0.00,0.00,0.00,-256.00,03/09/2025,744.00,,02/01/2024,"New Garden Apartments, LLC","1622 McPherson Street Greensboro, NC 27405",256.00,0.00
+,,,"26,900.00","58,270.54","22,890.43","12,819.95","7,801.10","14,759.06",,"27,121.50",,,,,"2,228.00","53,873.30"
+"-> North York Street - 1404 N York Street Gastonia, NC 28052","","","","","","","","","","","","","","","",""
+1108 N York St,"Mettelus, Guerline",Current,"2,300.00","2,625.00","1,312.50","1,312.50",0.00,0.00,01/03/2025,"1,250.00",,11/01/2022,North York Street,"1404 N York Street Gastonia, NC 28052",0.00,"2,500.00"
+210 W. Sullivans St,"Flores Rojas, Juan  E.",Current,300.00,"1,032.75",944.25,88.50,0.00,0.00,03/04/2025,900.00,,12/01/2024,North York Street,"1404 N York Street Gastonia, NC 28052",0.00,929.25
+1501 N York St,"Christophe, Clidford",Current,"1,350.00",139.43,139.43,0.00,0.00,0.00,03/04/2025,350.00,,09/01/2024,North York Street,"1404 N York Street Gastonia, NC 28052",0.00,118.50
+1414 N York St.,"Thermot, Ecrissa",Current,"1,250.00",4.00,4.00,0.00,0.00,0.00,03/07/2025,"1,250.00",,05/30/2024,North York Street,"1404 N York Street Gastonia, NC 28052",0.00,4.00
+,,,"5,200.00","3,801.18","2,400.18","1,401.00",0.00,0.00,,"3,750.00",,,,,0.00,"3,551.75"
+"-> Northwood Apartments - -105 Inverness Street Winston-Salem, NC 27105","","","","","","","","","","","","","","","",""
+Inverness 113,"Cisneros, Pedro",Current,0.00,"2,086.00",787.50,787.50,511.00,0.00,02/05/2025,500.00,,02/01/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,"2,011.00"
+Gilmer 3024,"Basilio Torres, Victor",Current,800.00,"1,285.00",892.50,392.50,0.00,0.00,02/20/2025,500.00,,02/02/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,"1,200.00"
+Inverness 08,"Rojas Torres , Ramsses A.",Current,950.00,"1,068.63",998.63,70.00,0.00,0.00,02/28/2025,"2,000.00",,05/01/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,972.50
+Greenway 3019,"Reese, Traci L.",Current,525.00,892.00,866.25,100.75,0.00,-75.00,02/25/2025,825.00,,02/07/2020,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,884.50
+Gilmer 3064,"Herrera noyola, Areceli E.",Current,775.00,880.00,840.00,40.00,0.00,0.00,02/03/2025,800.00,,10/01/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,840.00
+Gilmer 3065,"Navarro Barrios, Bernardina",Current,675.00,872.50,630.00,242.50,0.00,0.00,12/17/2024,780.00,,04/25/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,812.50
+Inverness 117,"Paniagua, Ignacio",Current,0.00,865.00,15.00,0.00,0.00,850.00,02/05/2025,850.00,,11/13/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Greenway 3068,"Gomez Sosa, Jackelinne  R.",Current,725.00,796.25,761.25,35.00,0.00,0.00,03/09/2025,760.00,,05/01/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,725.00
+Gilmer 3020,"Kelley, Artillery",Current,250.00,787.96,787.50,0.46,0.00,0.00,02/20/2025,790.00,401k approved,04/01/2019,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,750.00
+Inverness 13,"Tyree Peoples, Antonio D.",Current,250.00,759.00,759.00,0.00,0.00,0.00,02/28/2025,845.00,Working on balance going to Salvation Army,01/01/1970,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,722.75
+Gilmer 3070,"Ortega-Perez, Abacu",Current,0.00,735.00,735.00,0.00,0.00,0.00,02/05/2025,735.00,P2P AND SIGN NEW LEASE TOMORROW 7/4/19,07/11/2019,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,700.00
+Greenway 3039,"Wardlow SECTION-8, Darryl",Current,250.00,707.00,682.50,24.50,0.00,0.00,03/03/2025,99.00,,08/01/2016,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,674.50
+Greenway 3028,"De la Cruz Vazquez, Alfredo",Current,0.00,675.50,0.00,0.00,0.00,675.50,02/11/2025,840.00,,05/07/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Gilmer 3031,"Lopez Bonilla , Hector  N.",Current,725.00,424.76,424.76,0.00,0.00,0.00,03/17/2025,900.00,,04/24/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,386.01
+Greenway 3059,"Bolanos Medina , Felipe",Current,800.00,400.00,400.00,0.00,0.00,0.00,03/12/2025,250.00,,02/09/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,360.00
+Greenway 3034,"Ramirez Avelino, Maria  A.",Current,725.00,362.50,362.50,0.00,0.00,0.00,03/02/2025,900.00,,06/16/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,325.00
+Greenway 3021,"Chapman, Frederick",Current,250.00,337.50,337.50,0.00,0.00,0.00,03/04/2025,650.00,,06/01/2014,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,300.00
+Inverness 115,"Hernandez Martinez, Monserrat",Current,675.00,307.50,307.50,0.00,0.00,0.00,03/16/2025,200.00,,02/27/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,273.75
+Gilmer 3052,"Muhammad , Willie",Current,990.00,225.00,225.00,0.00,0.00,0.00,02/27/2025,700.00,,09/03/2020,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,191.25
+Greenway 3032,"Garcia-Gutierrez , Kevin  L.",Current,0.00,171.25,0.00,0.00,0.00,171.25,03/18/2025,675.00,,09/03/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Greenway 3036,"Arevalo Orellana, Maria  G.",Current,80.00,120.00,0.00,0.00,0.00,120.00,03/05/2025,800.00,,08/09/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Greenway 3058,"Salas Panzo, Anastacio",Notice,725.00,113.75,0.00,113.75,0.00,0.00,03/02/2025,700.00,,05/02/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,113.75
+Inverness 11,"Frey - SECTION 8, Herbert G.",Current,250.00,98.10,98.10,0.00,0.00,0.00,03/03/2025,563.00,,11/01/2014,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,92.50
+Greenway 3016,"Burst, James  E.",Current,100.00,75.00,75.00,0.00,0.00,0.00,03/03/2025,675.00,,05/01/2022,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,75.00
+Inverness 10,"Dickens, Larry",Current,150.00,73.75,73.75,0.00,0.00,0.00,03/04/2025,700.00,,12/01/2011,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,40.00
+Greenway 3048,"Guzman Gallardo, Elvia",Current,650.00,70.00,70.00,0.00,0.00,0.00,03/02/2025,700.00,,10/01/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,35.00
+Greenway 3042,"Godoy Garcia , Jonathan  D.",Current,0.00,67.53,0.00,0.00,0.00,67.53,03/09/2025,880.00,,10/07/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Gilmer 3032,"Sanchez Montalvan, Brenda",Current,850.00,42.50,42.50,0.00,0.00,0.00,03/07/2025,850.00,,07/19/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Inverness 106,"Garcia Rodriguez, Alberta",Current,675.00,34.63,34.63,0.00,0.00,0.00,03/07/2025,700.00,,04/02/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Greenway 3074,"De la Cruz Casanova, Flora",Current,0.00,27.50,0.00,27.50,0.00,0.00,03/09/2025,850.00,,02/03/2025,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Gilmer 3060,"Garcia, Clotilda",Current,0.00,22.50,22.50,0.00,0.00,0.00,03/08/2025,735.00,,11/01/2015,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Inverness 14,"Calleja Maya, Maria",Current,950.00,15.00,15.00,0.00,0.00,0.00,03/02/2025,950.00,,05/01/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,15.00
+Greenway 3025,"Marroquin Rivera, Mauricio",Current,775.00,13.75,13.75,0.00,0.00,0.00,03/06/2025,800.00,,02/07/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Greenway 3065,"Cruz Gasga, Jesus Ivan",Current,0.00,10.50,10.50,0.00,0.00,0.00,03/09/2025,750.00,,01/01/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Greenway 3033,"Quiterio Valadez , Sofia Y.",Current,950.00,9.00,9.00,0.00,0.00,0.00,03/01/2025,956.00,,12/14/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Greenway 3053,"Huete Espinal, Merling S.",Current,575.00,2.50,2.50,0.00,0.00,0.00,03/13/2025,795.00,,07/18/2022,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Greenway 3060,"Perez Juarez, Norma  C.",Current,600.00,2.50,2.50,0.00,0.00,0.00,03/10/2025,680.00,,11/01/2022,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Gilmer 3021,"Rodriguez Perez , Wendy  S.",Current,80.00,0.50,0.00,0.00,0.00,0.50,03/04/2025,850.00,,10/11/2024,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Gilmer 3036,"Gonzalez, Jose  M.",Current,0.00,0.45,0.45,0.00,0.00,0.00,03/14/2025,"1,672.05",,03/11/2025,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.00
+Gilmer 3033,"Garcia, Aurelio",Current,725.00,0.08,0.08,0.00,0.00,0.00,03/02/2025,813.00,,04/01/2023,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105",0.00,0.08
+Inverness 23,"Gwynn - SECTION 8, Hurley W.",Current,250.00,"-1,591.98",0.00,0.00,0.00,"-1,591.98",03/01/2025,538.00,,12/01/2015,Northwood Apartments,"-105 Inverness Street Winston-Salem, NC 27105","1,619.00",0.00
+,,,"17,750.00","13,845.91","11,282.65","1,834.46",511.00,217.80,,"31,556.05",,,,,"1,619.00","12,500.09"
+"-> Old Steele Creek - 2732 Old Steele Creek Rd Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+2732-3,"Gonzalez, Arisdiel",Current,"1,100.00","1,409.00","1,312.50",96.50,0.00,0.00,03/04/2025,"1,000.00",,12/21/2022,Old Steele Creek,"2732 Old Steele Creek Rd Charlotte, NC 28208",0.00,"1,284.00"
+"-> Ozark Avenue - 2417 E OZARK AVE SUITE 1 Gastonia, NC 28054","","","","","","","","","","","","","","","",""
+2417-6,"Flott, Shanise",Current,0.00,"1,233.75","1,233.75",0.00,0.00,0.00,02/26/2025,"1,175.00",,10/20/2021,Ozark Avenue,"2417 E OZARK AVE SUITE 1 Gastonia, NC 28054",0.00,"1,175.00"
+2417-5,"Reyes Escalante, Cintya  Y.",Current,"2,000.00",60.00,60.00,0.00,0.00,0.00,03/06/2025,"1,200.00",,11/01/2024,Ozark Avenue,"2417 E OZARK AVE SUITE 1 Gastonia, NC 28054",0.00,60.00
+,,,"2,000.00","1,293.75","1,293.75",0.00,0.00,0.00,,"2,375.00",,,,,0.00,"1,235.00"
+"-> Park Fairfax Apartments LLC - 180 Park Fairfax Dr Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+120-D  Park Fairfax Dr.,"Rayond , Tryone Gardiner",Current,600.00,"2,682.38",997.50,997.50,687.38,0.00,01/27/2025,500.00,,10/09/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"2,539.88"
+118-B  Park Fairfax Dr.,"Suarez, Weldimar",Current,600.00,"2,405.00","1,023.75","1,073.75",307.50,0.00,01/26/2025,500.00,,08/16/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"2,208.75"
+145-C   Park Fairfax Dr.,"kieklak, Timothy K.",Current,600.00,"2,047.50","1,023.75","1,023.75",0.00,0.00,03/06/2025,323.75,,09/26/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,950.00"
+147-C   Park Fairfax Dr.,"Rodriguez Arauz, Nilia Gabriela",Current,600.00,"2,019.75","1,012.50","1,007.25",0.00,0.00,12/30/2024,970.00,,10/28/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,895.00"
+147-E   Park Fairfax Dr.,"Juarez, Julia V.",Current,600.00,"1,855.00","1,038.75",816.25,0.00,0.00,03/06/2025,600.00,,08/29/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,727.50"
+114 Park Fairfax Dr.,"Alves Duarte, Rowan",Current,800.00,"1,598.77","1,312.50",286.27,0.00,0.00,03/14/2025,600.00,,10/10/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,473.77"
+105 Park Fairfax Dr.,"Moultry, Amber",Current,"1,400.00","1,583.50","1,583.50",0.00,0.00,0.00,02/28/2025,"1,583.50",,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,470.00"
+156-C  Park Fairfax Dr.,"Almendares, Noe  J.",Current,600.00,"1,564.25","1,254.75",309.50,0.00,0.00,02/17/2025,"1,000.00",,09/26/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,444.75"
+111 Park Fairfax Dr.,"VELASCO, GABRIEL",Current,600.00,"1,529.50","1,269.75",259.75,0.00,0.00,03/07/2025,"1,000.00",,08/29/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,380.00"
+133 Park Fairfax Dr.,"Mori Panduro, Kevin",Current,0.00,"1,405.00","1,405.00",0.00,0.00,0.00,03/13/2025,325.00,,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,300.00"
+121-D   Park Fairfax Dr.,"Guzman Nunez, Emiliano",Current,600.00,"1,374.50","1,269.75",104.75,0.00,0.00,02/05/2025,"1,195.00",,09/18/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,284.75"
+131 Park Fairfax Dr.,"YANEZ LOPEZ, FELIPE",Current,900.00,"1,365.00","1,365.00",0.00,0.00,0.00,02/04/2025,"1,300.00",,07/19/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,300.00"
+154-B  Park Fairfax Dr.,"Sampson (S.A), Sylvia",Current,0.00,"1,337.64","1,337.64",0.00,0.00,0.00,03/05/2025,500.00,,04/29/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,273.94"
+150 Park Fairfax Dr.,"Conde, Nicolas",Current,800.00,"1,319.24","1,254.75",64.49,0.00,0.00,03/05/2025,"1,190.00",,08/29/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,199.75"
+130 Park Fairfax Dr.,"QUERI, JESUS EDUARDO",Current,600.00,"1,309.98","1,309.98",0.00,0.00,0.00,03/15/2025,"1,315.00",,10/12/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,247.48"
+122-D   Park Fairfax Dr.,"Mcgee, Tommy",Current,"1,100.00","1,238.00","1,238.00",0.00,0.00,0.00,02/20/2025,"1,257.00",,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,150.00"
+174-C  Park Fairfax Dr.,"Muniz, Carlos J.",Current,500.00,"1,207.50","1,102.50",105.00,0.00,0.00,03/01/2025,"1,050.00",,07/03/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,102.50"
+124-D   Park Fairfax Dr.,"Ford BC, Akil",Current,"1,100.00","1,154.75","1,154.75",0.00,0.00,0.00,02/26/2025,"1,254.75",,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,095.00"
+118-D  Park Fairfax Dr.,"Deleon, Amaury",Current,600.00,"1,102.50","1,102.50",0.00,0.00,0.00,02/28/2025,"1,102.50",,06/12/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,050.00"
+147-A   Park Fairfax Dr.,"Vera Carrillo, Angie T.",Current,500.00,"1,045.00",997.50,47.50,0.00,0.00,02/24/2025,950.00,,10/14/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,950.00
+147-D   Park Fairfax Dr.,"ALMONTE BONILLA, RAMON H",Current,600.00,"1,023.75","1,023.75",0.00,0.00,0.00,02/27/2025,"1,072.50",,09/24/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,975.00
+125 Park Fairfax Dr.,"LOPEZ DIAZ, riccy mabel",Current,600.00,766.38,766.38,0.00,0.00,0.00,03/05/2025,"1,225.00",,12/14/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,715.60
+145-H   Park Fairfax Dr.,"Vasques Ruiz, Yunieth del Carmen",Current,500.00,594.20,594.20,0.00,0.00,0.00,03/04/2025,"1,200.00",,08/24/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,544.20
+174-D  Park Fairfax Dr.,"Austin, Donald",Current,0.00,555.63,555.63,0.00,0.00,0.00,03/15/2025,300.00,,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,496.88
+145-F   Park Fairfax Dr.,"Jackson, Kelvin",Current,0.00,435.00,435.00,0.00,0.00,0.00,03/18/2025,800.00,,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,342.50
+166 Park Fairfax Dr.,"Tyler (S.A), Chasity",Current,0.00,315.00,315.00,0.00,0.00,0.00,03/05/2025,"1,000.00",,03/01/2020,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,300.00
+147-F   Park Fairfax Dr.,"Moreno, Dany",Current,500.00,311.75,311.75,0.00,0.00,0.00,03/16/2025,700.00,,02/15/2025,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,250.00
+154-C  Park Fairfax Dr.,"Lopez, Roxana",Current,600.00,201.50,201.50,0.00,0.00,0.00,03/14/2025,"1,300.00",,07/02/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,136.50
+162 Park Fairfax Dr.,"Cunningham, Michelle",Current,0.00,173.54,173.54,0.00,0.00,0.00,03/10/2025,457.50,bond,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,66.04
+145-G   Park Fairfax Dr.,"GIL FERRER, GENESIS",Current,600.00,107.60,107.60,0.00,0.00,0.00,03/02/2025,975.00,,08/06/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,102.47
+141 Park Fairfax Dr.,"Sumwalt, Gavin",Current,0.00,105.00,105.00,0.00,0.00,0.00,03/03/2025,"1,240.00",bond,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,100.00
+121-B  Park Fairfax Dr.,"Sanchez, Ernesto",Current,600.00,99.75,99.75,0.00,0.00,0.00,03/05/2025,"1,195.00",,08/30/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,95.00
+138 Park Fairfax Dr.,"Becerril Arreola, Firmo",Current,800.00,82.00,882.00,0.00,0.00,-800.00,03/04/2025,"1,300.00",,08/24/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,840.00
+115 Park Fairfax Dr.  Apt.,"Johnson, Shelton",Current,0.00,70.00,70.00,0.00,0.00,0.00,03/09/2025,200.00,,10/01/2020,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,0.00
+151 Park Fairfax Dr.,"ROJAS VISAY, CALIXTO J",Current,600.00,65.61,65.61,0.00,0.00,0.00,03/04/2025,"1,195.00",,08/22/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,62.48
+154-A  Park Fairfax Dr.,"Sibley, Jamarcus",Current,"1,100.00",62.50,62.50,0.00,0.00,0.00,03/07/2025,"1,290.00",,04/23/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,0.00
+122-B   Park Fairfax Dr.,"Sira, Daniela",Current,800.00,57.89,57.89,0.00,0.00,0.00,03/05/2025,"1,050.00",,05/22/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,55.13
+156-F  Park Fairfax Dr.,"Johnson, Precious",Current,0.00,57.50,"1,207.50",0.00,0.00,"-1,150.00",02/28/2025,"1,250.00",,10/06/2023,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,"1,150.00"
+146 Park Fairfax Dr.,"Brito Acarez, Francielis",Current,600.00,28.44,28.44,0.00,0.00,0.00,03/04/2025,"1,000.00",,08/28/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,12.80
+174-G  Park Fairfax Dr.,"Hernandez Gonzalez, Beldaneisys",Current,500.00,17.37,17.37,0.00,0.00,0.00,03/04/2025,965.00,,12/31/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,16.54
+124-A   Park Fairfax Dr.,"FUENTES BARRIOS, LAZARO",Current,975.00,15.75,15.75,0.00,0.00,0.00,03/05/2025,960.00,,01/07/2025,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,15.00
+123-B   Park Fairfax Dr.,"Arauz Calderon, Melvin F.",Current,500.00,15.75,15.75,0.00,0.00,0.00,02/28/2025,500.00,,02/28/2025,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,15.00
+156-B  Park Fairfax Dr.,"VASQUEZ, HENRY ALEXANDER",Current,900.00,14.50,14.50,0.00,0.00,0.00,03/05/2025,76.00,,03/05/2025,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,0.00
+136 Park Fairfax Dr.,"Alvarado Castellanos, Robins  V.",Current,500.00,14.25,14.25,0.00,0.00,0.00,03/15/2025,"1,270.00",,11/29/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,0.00
+145-A   Park Fairfax Dr.,"NUNEZ CARDENAS, JARELY DIXIANA",Current,500.00,5.00,105.00,0.00,0.00,-100.00,02/28/2025,980.00,,11/27/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,100.00
+145-L   Park Fairfax Dr.,"Alvarado, Katherine",Current,600.00,0.13,0.13,0.00,0.00,0.00,02/28/2025,975.00,,08/21/2024,Park Fairfax Apartments LLC,"180 Park Fairfax Dr Charlotte, NC 28208",0.00,0.12
+,,,"25,475.00","36,340.55","31,299.91","6,095.76",994.88,"-2,050.00",,"42,992.50",,,,,0.00,"35,434.33"
+"-> Poinsett View Apartments - 2627 Poinsett Highway Apt 1 Greenville, SC 29609","","","","","","","","","","","","","","","",""
+78,"ARGUETA , HENRRY SELIM",Current,980.00,"1,160.60",957.60,203.00,0.00,0.00,03/05/2025,500.00,,02/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,"1,115.00"
+10,"Antonio Tomas, Antonio",Current,-400.00,"1,091.75",845.50,387.00,0.00,-140.75,03/05/2025,"1,000.00",,10/01/2022,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,"1,130.50"
+41,"JACKSON MILLER , ISRAEL",Current,895.00,"1,062.00","1,008.00",54.00,0.00,0.00,02/05/2025,960.00,,11/11/2022,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,966.00
+20,"ULLOA, DIANA YADIRA",Current,700.00,"1,019.50",991.50,28.00,0.00,0.00,03/05/2025,200.00,,01/04/2025,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,958.00
+77,"MONTERO , FELIX MANUEL",Current,500.00,995.00,945.00,50.00,0.00,0.00,03/05/2025,200.00,,08/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,950.00
+106,"MILLAN, BERNARDO ISMAEL",Current,700.00,991.50,991.50,0.00,0.00,0.00,02/05/2025,945.00,,11/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,930.00
+18,"LOPEZ RUIZ, MARIA DEL CARMEN",Current,700.00,976.50,976.50,0.00,0.00,0.00,02/05/2025,930.00,,10/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,930.00
+34,"Velazquez, Humberto J.",Current,700.00,942.75,897.75,45.00,0.00,0.00,02/21/2025,900.00,,07/03/2023,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,900.00
+74,"RUIZ , MYDALIS MARIEBECK",Current,930.00,723.11,723.11,0.00,0.00,0.00,03/13/2025,800.00,,02/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,676.61
+107,"Rodriguez de la Rosa, Yarily",Current,500.00,647.33,647.33,0.00,0.00,0.00,02/27/2025,"1,000.00",,10/03/2022,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,616.50
+111,"GAVARRETE , FANY YISSEL",Current,700.00,645.00,645.00,0.00,0.00,0.00,03/05/2025,300.00,,08/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,600.00
+101,"PELAS GARCIA , ERMINIO",Current,600.00,579.50,579.50,0.00,0.00,0.00,03/18/2025,420.00,,08/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,579.50
+24,"Herrera Giron, Lizandro Jose",Current,0.00,430.50,430.50,0.00,0.00,0.00,03/04/2025,750.00,,03/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,410.00
+7,"ORDONEZWITOLH, VANESSA ISBELA",Current,800.00,328.00,328.00,0.00,0.00,0.00,03/05/2025,800.00,,11/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,260.00
+83,"REYES MORADEL , FREDY FERNANDO",Current,500.00,303.00,303.00,0.00,0.00,0.00,03/05/2025,105.00,,03/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,260.00
+23,"Colaj Mateo, Heber A.",Current,600.00,294.34,349.34,0.00,0.00,-55.00,03/05/2025,"1,000.00",,01/01/2023,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,294.34
+110,"Martinez, Jose  M.",Current,500.00,293.32,293.32,0.00,0.00,0.00,03/05/2025,"1,000.00",,10/28/2022,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,244.00
+70,"MOREIRA FLORES , SOFIA AMANDA",Current,650.00,51.80,51.80,0.00,0.00,0.00,03/05/2025,980.00,,02/02/2023,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,2.80
+80,"HERNANDEZ , MARIA DEL CARMEN",Current,600.00,32.00,32.00,0.00,0.00,0.00,03/05/2025,80.00,,01/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,32.00
+86,"CASTELLANO AVILA , ANIA",Current,400.00,30.73,30.73,0.00,0.00,0.00,03/05/2025,930.00,,09/16/2022,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,29.26
+29,"QUINTERO CANTOR , NINI JOHANA",Current,600.00,15.23,15.23,0.00,0.00,0.00,03/04/2025,930.00,,12/17/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,14.50
+66,"JOSE PADRON, EDUARDO",Current,800.00,7.50,7.50,0.00,0.00,0.00,03/05/2025,60.00,,09/01/2024,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,0.00
+22,"Ortiz, Roberto",Current,695.00,5.25,5.25,0.00,0.00,0.00,03/04/2025,795.00,,09/15/2021,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,5.25
+54,"PEREZ MAIRENA, JOSE CRISTOBAL",Current,700.00,2.88,97.41,0.00,0.00,-94.53,03/03/2025,150.00,,09/05/2023,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,97.41
+53,"Herrera Rodriguez, Luis O.",Current,700.00,2.00,2.00,0.00,0.00,0.00,03/05/2025,400.00,,09/05/2023,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,2.00
+109,"CASTILLO CABRERA, LUIS DAVID",Current,700.00,0.50,0.50,0.00,0.00,0.00,03/10/2025,60.00,,12/01/2023,Poinsett View Apartments,"2627 Poinsett Highway Apt 1 Greenville, SC 29609",0.00,0.00
+,,,"15,750.00","12,631.59","12,154.87",767.00,0.00,-290.28,,"16,195.00",,,,,0.00,"12,003.67"
+"-> Rebecca Avenue - 2317 Rebecca Ave Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+2335 Rebecca Ave,"Powell, Jo'Syndra",Current,0.00,"1,349.25","1,349.25",0.00,0.00,0.00,02/05/2025,642.50,,06/01/2021,Rebecca Avenue,"2317 Rebecca Ave Charlotte, NC 28208",0.00,"1,285.00"
+"-> Ross Avenue - 3235 Ross Ave Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+3233 Ross Ave Apt 1,"Brown, Jimmy",Current,"1,000.00","5,632.19","1,050.00","1,050.00","1,050.00","2,482.19",10/11/2024,400.00,,10/01/2020,Ross Avenue,"3235 Ross Ave Charlotte, NC 28208",0.00,"5,344.94"
+"-> Royal Street - 2417 E Ozark Avenue Suite 1 Gastonia, NC 28054","","","","","","","","","","","","","","","",""
+450 Royal St,"Cato, Patricia",Current,0.00,"23,522.00",630.00,630.00,630.00,"21,632.00",05/10/2023,476.00,,11/01/2021,Royal Street,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"22,352.00"
+413 Royal St,"Perry, Elvis",Current,0.00,"19,761.00",472.50,472.50,472.50,"18,343.50",,,,11/01/2021,Royal Street,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"18,820.00"
+415 Royal St,"Castro Ponce, Santos D.",Current,"1,150.00","2,030.00","1,365.00",665.00,0.00,0.00,02/28/2025,700.00,,09/15/2023,Royal Street,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,900.00"
+,,,"1,150.00","45,313.00","2,467.50","1,767.50","1,102.50","39,975.50",,"1,176.00",,,,,0.00,"43,072.00"
+"-> Saratoga Park Apartments - 1234 Saratoga Dr Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+1238-D,"Gray, Ashante",Current,35.00,"1,409.50","1,254.75",154.75,0.00,0.00,02/28/2025,"1,100.00",,05/09/2024,Saratoga Park Apartments,"1234 Saratoga Dr Charlotte, NC 28208",0.00,"1,290.00"
+1242-F,"Pierce, Evonda",Current,"1,000.00",539.75,539.75,0.00,0.00,0.00,03/05/2025,925.00,,01/10/2023,Saratoga Park Apartments,"1234 Saratoga Dr Charlotte, NC 28208",0.00,539.75
+1234-B,"Polk, Anthony",Current,0.00,306.75,306.75,0.00,0.00,0.00,02/28/2025,950.00,,09/20/2015,Saratoga Park Apartments,"1234 Saratoga Dr Charlotte, NC 28208",0.00,260.80
+1242-G,"Beal, Stephanie",Current,0.00,225.00,"1,195.00",64.25,"-1,034.25",0.00,03/03/2025,"1,050.00",,07/01/2023,Saratoga Park Apartments,"1234 Saratoga Dr Charlotte, NC 28208",0.00,"1,259.25"
+,,,"1,035.00","2,481.00","3,296.25",219.00,"-1,034.25",0.00,,"4,025.00",,,,,0.00,"3,349.80"
+"-> Springmont Garden Apartments LLC - 1307 Springmont Ln Charlotte, NC 28208","","","","","","","","","","","","","","","",""
+1410-H Springmont Ln,"EXALUS (H), MICHELAIRE",Current,0.00,"4,462.50",892.50,892.50,892.50,"1,785.00",,,,11/01/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"4,250.00"
+1410-A Springmont Ln,"ETIENNE (H), MARCELIN",Current,0.00,"4,462.50",892.50,892.50,892.50,"1,785.00",,,,11/01/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"4,250.00"
+5105-G  Brooktree Ln,"CARBALLO ARGUETA, JUNIOR EDUARDO",Current,600.00,"3,509.53","1,254.75","1,254.75","1,000.03",0.00,01/15/2025,"1,000.00",,11/04/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"3,330.28"
+1315-H Springmont Ln,"Bravo Fernandez, Ruben Dario",Current,600.00,"2,622.12","1,254.75","1,304.75",62.62,0.00,03/06/2025,200.00,,08/27/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"2,390.00"
+1401-B Springmont Ln,"Garces Baron, Christian C",Current,500.00,"2,150.41","1,269.75",880.66,0.00,0.00,03/14/2025,512.00,,10/31/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"2,000.91"
+1304-H Springmont Ln,"Montero Palma, Ana C",Current,600.00,"2,076.19","1,038.75","1,037.44",0.00,0.00,01/07/2025,500.00,,08/30/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,948.75"
+1318-G Springmont Ln,"Harris - S.A, Shaquana",Current,950.00,"1,861.85","1,142.50",719.35,0.00,0.00,03/05/2025,710.00,,04/23/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,756.85"
+5101-H Brooktree Ln,"Alvarez, Carlos",Current,0.00,"1,578.62","1,344.00",234.62,0.00,0.00,03/01/2025,"1,280.00",,04/23/2021,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,417.62"
+5101-D Brooktree Ln,"Sandres, Orlin",Current,600.00,"1,374.72","1,254.75",119.97,0.00,0.00,02/03/2025,"1,195.00",,08/30/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,309.25"
+1308-L Springmont Ln,"FERRERA , BRAYAN J.",Current,800.00,"1,307.11","1,102.50",204.61,0.00,0.00,03/04/2025,"1,050.00",,06/11/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,202.11"
+5109-B Brooktree Ln,"Groves, Daveuania",Current,0.00,"1,242.21","1,242.21",0.00,0.00,0.00,03/05/2025,"1,390.00",bond,05/24/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,144.96"
+5105-F  Brooktree Ln,"Dillard, Barry",Current,0.00,"1,195.00","1,195.00",0.00,0.00,0.00,02/05/2025,"1,140.00",,11/01/2020,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,100.00"
+1406-H Springmont Ln,"Morris, Sharranda",Current,0.00,"1,192.12","1,063.75",128.37,0.00,0.00,02/28/2025,"1,045.95",,04/23/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,014.62"
+5201-D Brooktree Ln,"Lopez Juarez , Yolani Yasel",Current,600.00,"1,152.13","1,102.50",49.63,0.00,0.00,02/20/2025,300.00,,07/02/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,"1,050.00"
+1318-K Springmont Ln,"Hairston, Drequan",Current,"1,462.50","1,063.22","1,063.22",0.00,0.00,0.00,02/27/2025,"1,064.00",,04/23/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,974.49
+1304-B Springmont Ln,"Garces Baron, Adriana",Current,600.00,"1,026.94","1,026.94",0.00,0.00,0.00,02/23/2025,"1,050.00",,08/30/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,963.75
+5201-J Brooktree Ln,"Cortes Ramirez, kennet Kerlis",Current,975.00,"1,023.00","1,023.00",0.00,0.00,0.00,02/01/2025,975.00,,11/20/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,960.00
+1318-C Springmont Ln,"PACHECO HERNANDEZ, REINYEL",Current,700.00,"1,010.23","1,010.23",0.00,0.00,0.00,02/09/2025,"1,028.25",,09/01/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,962.12
+1308-C Springmont Ln,"Delfin Cordero, Manuel",Current,500.00,997.50,997.50,0.00,0.00,0.00,02/07/2025,997.50,,11/02/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,950.00
+1406-J Springmont Ln,"Sellers, Perry",Current,0.00,967.00,962.50,4.50,0.00,0.00,01/23/2025,"1,000.00",,01/10/2025,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,954.50
+5109-G Brooktree Ln,"Guzman, Alberto",Current,600.00,738.94,738.94,0.00,0.00,0.00,03/08/2025,500.00,,07/13/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,679.19
+5109-D Brooktree Ln,"Vontayes, Tianna",Current,500.00,645.42,645.42,0.00,0.00,0.00,03/10/2025,500.00,,10/22/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,590.87
+1304-K Springmont Ln,"Castrillon Araque, Luisa V",Current,500.00,209.34,209.34,0.00,0.00,0.00,03/05/2025,"1,055.00",,10/16/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,185.08
+5109-E Brooktree Ln,"Hernandez escobar, Sonia",Current,600.00,174.74,174.74,0.00,0.00,0.00,03/05/2025,"1,195.00",,09/07/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,152.13
+1401-G Springmont Ln,"Hernandez de carcamo, Norma Roxana",Current,500.00,114.71,114.71,0.00,0.00,0.00,03/05/2025,195.00,,11/29/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,109.24
+5105-B  Brooktree Ln,"PERDOMO BONILLA, JUAN RAMON",Current,600.00,110.10,110.10,0.00,0.00,0.00,03/05/2025,195.00,,09/23/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,90.57
+5109-A Brooktree Ln,"Ricks, Lyndale",Current,"1,100.00",105.00,105.00,0.00,0.00,0.00,03/04/2025,"1,100.00",,04/23/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,100.00
+1314-D Springmont Ln,"Walker, Quinten",Current,975.00,91.25,91.25,0.00,0.00,0.00,03/13/2025,875.00,,04/23/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,40.00
+1308-I Springmont Ln,"VAZQUEZ JUAREZ, CARMELO",Current,800.00,72.19,74.61,0.00,0.00,-2.42,03/05/2025,475.00,,08/01/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,74.61
+1308-K Springmont Ln,"Anariba, Javier",Current,800.00,65.00,65.00,0.00,0.00,0.00,03/06/2025,"1,000.00",,01/10/2025,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,15.00
+1314-J Springmont Ln,"Hardin, Will",Current,950.00,42.00,42.00,0.00,0.00,0.00,03/04/2025,"1,000.00",,04/23/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,40.00
+1400-E Springmont Ln,"TAPERIA, LUIS MEJIA",Current,500.00,36.00,36.00,0.00,0.00,0.00,03/04/2025,940.00,,11/30/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,20.00
+5101-B Brooktree Ln,"MELCHOR LOPEZ, DARWIN ALEXANDER",Current,600.00,7.00,7.00,0.00,0.00,0.00,03/01/2025,725.00,,03/14/2025,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,0.00
+5201-F Brooktree Ln,"Castro Ortega, Yeison",Current,800.00,5.20,5.20,0.00,0.00,0.00,03/04/2025,"1,050.00",,05/24/2024,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,4.95
+1410-I Springmont Ln,"Milien, Lesly",Current,500.00,0.75,0.75,0.00,0.00,0.00,02/28/2025,500.00,,02/28/2025,Springmont Garden Apartments LLC,"1307 Springmont Ln Charlotte, NC 28208",0.00,15.00
+,,,"19,812.50","38,692.54","24,553.66","7,723.65","2,847.65","3,567.58",,"27,742.70",,,,,0.00,"36,046.85"
+"-> Stevens Street - 636 Stevens St Gastonia, NC 28054","","","","","","","","","","","","","","","",""
+636 Stevens St Apt M,"Gallardo Vasquez, Camila D.",Current,700.00,"2,625.00","1,312.50","1,312.50",0.00,0.00,01/09/2025,"1,426.95",,02/01/2024,Stevens Street,"636 Stevens St Gastonia, NC 28054",0.00,"2,500.00"
+636 Stevens St Apt S,"Fordham, Rhonda",Current,0.00,"1,899.00","1,090.00",809.00,0.00,0.00,03/07/2025,8.00,,09/01/2021,Stevens Street,"636 Stevens St Gastonia, NC 28054",0.00,"1,899.00"
+636 Stevens St Apt C,"Garcia Morales, Edvin",Current,"2,000.00","1,199.50","1,149.75",49.75,0.00,0.00,02/22/2025,"1,100.00",,10/14/2022,Stevens Street,"636 Stevens St Gastonia, NC 28054",0.00,"1,095.00"
+636 Stevens St Apt A,"Brace, Donovan",Current,500.00,"1,174.95","1,174.95",0.00,0.00,0.00,02/20/2025,"1,177.00",,09/01/2021,Stevens Street,"636 Stevens St Gastonia, NC 28054",0.00,"1,119.00"
+636 Stevens St Apt H,"Gonzalez Rodriguez, Jofre D.",Current,700.00,798.00,798.00,0.00,0.00,0.00,03/05/2025,440.00,,02/01/2024,Stevens Street,"636 Stevens St Gastonia, NC 28054",0.00,760.00
+636 Stevens St Apt I,"Rios Molina, Marlen  E.",Current,"1,900.00",104.00,104.00,0.00,0.00,0.00,03/06/2025,"1,150.50",,08/01/2022,Stevens Street,"636 Stevens St Gastonia, NC 28054",0.00,46.50
+,,,"5,800.00","7,800.45","5,629.20","2,171.25",0.00,0.00,,"5,302.45",,,,,0.00,"7,419.50"
+"-> Venture Rental Properties - 2417 E Ozark Avenue Suite 1 Gastonia, NC 28054","","","","","","","","","","","","","","","",""
+200 Huffman Rd,"Dupervil, Jean",Current,"2,300.00","16,397.50","1,207.50","1,207.50","1,207.50","12,775.00",07/13/2023,"1,150.00",,10/20/2022,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"15,650.00"
+106 Priscilla St,"Miller Jr, Wade G.",Current,0.00,"14,280.00",840.00,840.00,840.00,"11,760.00",02/06/2023,840.00,,01/01/2021,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"13,600.00"
+4834 Muskogee Dr,"Silva, Eduardo",Current,"1,900.00","5,985.00","1,995.00","1,995.00","1,995.00",0.00,12/16/2024,"1,995.00",,02/01/2024,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"5,700.00"
+1827 Vinton St Unit B,"Saldana Sanchez, Jorge",Current,"1,100.00","5,764.21","1,155.00","1,155.00","1,155.00","2,299.21",10/17/2024,70.00,,01/10/2024,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"5,489.72"
+7120 Mack St Apt B,"Harris Jr, Darby",Current,0.00,"4,331.25",866.25,866.25,866.25,"1,732.50",09/30/2024,825.00,,10/01/2020,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"4,125.00"
+1042 Brianna Way,"Amaya Betancourth , Luis A.",Current,"3,200.00","4,021.25","2,021.25","2,000.00",0.00,0.00,02/14/2025,"1,510.00",,07/01/2022,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"3,828.75"
+717 Mistral Way,"Bennett, Joseph",Current,0.00,"3,202.50","1,601.25","1,601.25",0.00,0.00,01/01/2025,"1,525.00",,06/01/2021,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"3,050.00"
+842 Reliance St,"JACOBO, KATERY J.",Current,"1,700.00","1,970.00","1,785.00",185.00,0.00,0.00,02/27/2025,"2,200.00",,09/06/2023,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,800.00"
+1438 Capps Hill Mine Rd,"Giron, Elsa M.",Current,"1,900.00","1,786.72","1,706.25",80.47,0.00,0.00,03/01/2025,"1,625.00",,01/14/2022,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,625.00"
+921 Patch Ave,"Chavarro Perdomo, Yeison",Current,"1,700.00","1,785.00","1,785.00",0.00,0.00,0.00,02/05/2025,200.00,,07/01/2024,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,700.00"
+705 Mapleleaf Ln.,"RogelGen, Elmer  L.",Current,"1,500.00","1,650.00","1,575.00",75.00,0.00,0.00,03/06/2025,"1,500.00",,05/02/2024,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,500.00"
+1827 Vinton St Unit A,"Garcia Torrez, Kenia C.",Current,"1,050.00","1,636.57","1,102.50",534.07,0.00,0.00,01/02/2025,"1,097.00",,02/01/2024,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,558.63"
+5323 Peachwood Dr,"Soto, Jennyfer",Current,500.00,"1,522.50","1,522.50",0.00,0.00,0.00,02/21/2025,"1,522.00",,07/01/2023,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,450.00"
+7114 Mack St Apt B,"Chacon, Jorge",Current,"1,100.00","1,155.00","1,155.00",0.00,0.00,0.00,02/01/2025,"1,100.00",,01/01/2024,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,100.00"
+5201 Princess St,"Rosales, Victor",Current,"1,115.00","1,102.50","1,102.50",0.00,0.00,0.00,03/04/2025,500.00,,08/30/2021,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,"1,050.00"
+7118 Roaming Path Ct,"Ortega, Gloria",Current,0.00,359.08,359.08,0.00,0.00,0.00,03/04/2025,710.00,,07/13/2021,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,341.98
+7800 Ocala Rd Unit B,"Bonilla, Walter A.",Current,"1,450.00",122.19,122.19,0.00,0.00,0.00,03/18/2025,"1,450.00",,02/01/2024,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,49.69
+254 Kem Lane,"McDuffie, Samuel",Current,"1,055.00",68.75,68.75,0.00,0.00,0.00,03/05/2025,"1,375.00",,05/01/2021,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,0.00
+"1422 Peach Park Lane, Charlotte NC 28216","Yanez Matute, Concepcion J.",Current,"2,000.00",6.20,25.20,0.00,0.00,-19.00,03/04/2025,"1,625.00",,03/23/2021,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054",0.00,25.20
+1000 1st Street Apt B,"Cain, Thomas",Current,0.00,"-9,280.00",0.00,0.00,0.00,"-9,280.00",03/04/2025,680.00,,05/28/2021,Venture Rental Properties,"2417 E Ozark Avenue Suite 1 Gastonia, NC 28054","9,790.00",0.00
+,,,"23,570.00","57,866.22","21,995.22","10,539.54","6,063.75","19,267.71",,"23,499.00",,,,,"9,790.00","63,643.97"
+"-> W. Franklin Blvd - 3600 Franklin Blvd Gastonia, NC 28052","","","","","","","","","","","","","","","",""
+3600-DUPLEX FRONT # A & B,"Dupervil, Jean L.",Current,0.00,"24,905.00","1,785.00","1,785.00","1,785.00","19,550.00",,,,02/21/2024,W. Franklin Blvd,"3600 Franklin Blvd Gastonia, NC 28052",0.00,"23,800.00"
+3600-TRAILER  # 1 & 2,"Belfort, Faraux",Current,0.00,"20,510.00","1,470.00","1,470.00","1,470.00","16,100.00",,,,02/21/2024,W. Franklin Blvd,"3600 Franklin Blvd Gastonia, NC 28052",0.00,"19,600.00"
+3600 West Franklin Blvd.,"Dupervil, Jean",Current,0.00,"17,045.00","1,365.00","1,365.00","1,365.00","12,950.00",07/03/2024,"2,000.00",,09/22/2023,W. Franklin Blvd,"3600 Franklin Blvd Gastonia, NC 28052",0.00,"16,200.00"
+,,,0.00,"62,460.00","4,620.00","4,620.00","4,620.00","48,600.00",,"2,000.00",,,,,0.00,"59,600.00"
+"-> Water Oaks Apartments, LLC. - 1984 Maryland Ave Apt C Winston-Salem, NC 27101","","","","","","","","","","","","","","","",""
+1972-F,"Turner, Melvin",Current,695.00,"10,144.49",735.00,735.00,735.00,"7,939.49",01/29/2024,735.00,,04/05/2021,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"9,794.49"
+1986-A,"Winston , Laronda  N.",Current,700.00,"7,770.00",735.00,735.00,735.00,"5,565.00",05/03/2024,300.00,,07/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"7,400.00"
+1980-D,"Iraheta Guardado , Jose Ricardo",Current,700.00,"7,350.00",735.00,735.00,735.00,"5,145.00",06/13/2024,700.00,,08/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"7,000.00"
+1968-A,"Marcos, Anjelina",Current,0.00,"7,175.00",735.00,735.00,735.00,"4,970.00",05/22/2024,700.00,,05/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"7,000.00"
+1974-A,"Hairston, Darlene",Current,700.00,"6,715.00",735.00,735.00,735.00,"4,510.00",06/24/2024,700.00,,08/08/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,400.00"
+1976-C,"Wiley , Stephanie",Current,0.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/20/2024,700.00,,02/01/2018,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1986-C,"Powell, Reginald",Current,0.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/09/2024,730.00,,01/01/2018,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1986-G,"Sala, Jorge",Current,625.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/01/2024,700.00,,02/11/2020,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1986-H,"Triplette, Robin",Current,0.00,"6,615.00",735.00,735.00,735.00,"4,410.00",05/31/2024,700.00,,11/02/2018,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1974-H,"Alas, Cherly L.",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",05/28/2024,895.00,,07/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1984-D,"Crawford, Janelle A.",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/05/2024,699.98,,07/21/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1972 D,"Tate, Henrietta  M.",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/24/2024,700.00,,07/28/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1976-H,"Acopa-Gomez, Jesus  E.",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",05/30/2024,700.00,,09/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1980-B,"Perez mejia, Giselle",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",05/30/2024,700.00,,09/22/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1986-M,"Matamoros, Adrian",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/01/2024,700.00,,10/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1976-A,"Terrones, Leslie",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/05/2024,700.00,,11/07/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1986-B,"Navidad-Cipriano, Enrique",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/10/2024,735.00,,11/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1976-F,"Vega, Priscilla",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/13/2024,700.00,,12/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1972-C,"Herrera Santiago, antonio",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/09/2024,700.00,,02/01/2024,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1972-A,"Cisneros, anel",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/06/2024,735.00,,02/05/2024,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1976-D,"Dominguez, Yolanda",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/22/2024,697.89,,02/05/2024,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1968-D,"Ramirez  Alvarez, Reyna",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/29/2024,335.00,,02/17/2024,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1974-E,"Ramirez, Rufino",Current,700.00,"6,615.00",735.00,735.00,735.00,"4,410.00",06/14/2024,735.00,,05/01/2024,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1974-C,"Simms, Nyasia  S.",Current,650.00,"6,614.75",735.00,735.00,735.00,"4,409.75",06/21/2024,300.00,,06/02/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1986-L,"Cisneros, Yesenia",Current,700.00,"6,614.15",735.00,735.00,735.00,"4,409.15",06/03/2024,"1,422.00",,08/08/2022,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,299.19"
+1976-G,"Clark , Veronica",Current,0.00,"6,608.48",735.00,735.00,735.00,"4,403.48",06/03/2024,200.00,,07/06/2017,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,293.79"
+1986-N,"Gomez , Tito  G.",Current,700.00,"6,578.25",735.00,735.00,735.00,"4,373.25",06/01/2024,735.00,,07/17/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,265.00"
+1976-E,"Sawyer, Carl",Current,0.00,"6,528.57",735.00,735.00,735.00,"4,323.57",06/03/2024,500.00,,02/01/2018,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,217.68"
+1986-J,"Ramirez , Alison  G.",Current,700.00,"6,475.00",735.00,735.00,735.00,"4,270.00",04/26/2024,500.00,,06/16/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"6,300.00"
+1986-F,"Knuckles - Section 8, Pamela",Current,625.00,"5,882.42",656.25,656.25,656.25,"3,913.67",06/05/2024,448.00,,05/01/2020,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"5,602.30"
+1972-E,"Alvarez, elena Cruz",Current,700.00,"5,732.62",735.00,735.00,735.00,"3,527.62",06/29/2024,431.01,,02/17/2024,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"5,592.62"
+1986-I,"Moreno - Section 8 , Ignacio",Current,0.00,"5,625.30",625.80,625.80,625.80,"3,747.90",06/05/2024,500.00,,05/08/2018,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"5,357.42"
+1968-B,"Baker-Marsh- Section 8, Precious",Current,695.00,"5,383.35",598.50,598.50,598.50,"3,587.85",06/05/2024,570.00,,12/01/2020,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"5,127.00"
+1980-A,"McCollum, Nathaniel",Current,0.00,"5,197.50",577.50,577.50,577.50,"3,465.00",06/05/2024,550.00,,03/02/2018,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"4,950.00"
+1968-C,"Robertson Jr, Michael",Current,700.00,"5,145.00",735.00,735.00,735.00,"2,940.00",08/02/2024,700.00,,11/18/2022,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"4,900.00"
+1980-C,"Butler - Section 8, Brian Taylor",Current,0.00,"4,966.20",799.80,520.80,520.80,"3,124.80",06/05/2024,496.00,,05/22/2018,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"4,464.00"
+1984-F,"Martin - Section 8, Antanette",Current,525.00,"4,961.25",551.25,551.25,551.25,"3,307.50",06/05/2024,385.00,,06/01/2017,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"4,725.00"
+1974-B,"Pegues, Yolanda Y.",Current,800.00,"4,924.75",735.00,735.00,735.00,"2,719.75",09/30/2024,770.00,,06/23/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"4,679.75"
+1984-E,"Mar, diop",Current,700.00,"4,915.00",735.00,735.00,735.00,"2,710.00",11/09/2024,700.00,,04/05/2024,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"4,670.00"
+1984-A,"Triplette - Section 8, Ruby",Current,0.00,"4,914.45",546.75,546.75,546.75,"3,274.20",06/05/2024,434.00,,06/01/2017,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"3,909.00"
+1976-B,"Clark- Section 8, Dwymond",Current,0.00,"4,908.94",551.25,551.25,551.25,"3,255.19",06/05/2024,525.00,,06/01/2017,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"4,675.18"
+1986-K,"Jordan del Cid, Nelson",Current,700.00,"4,505.55",735.00,735.00,735.00,"2,300.55",10/27/2024,700.00,,12/01/2023,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"4,260.55"
+1974-F,"Diop, Daouda",Current,700.00,"3,165.00",735.00,735.00,735.00,960.00,12/26/2024,700.00,,04/16/2024,"Water Oaks Apartments, LLC.","1984 Maryland Ave Apt C Winston-Salem, NC 27101",0.00,"2,990.00"
+,,,"22,115.00","267,871.02","30,632.10","30,353.10","30,353.10","176,532.72",,"27,263.88",,,,,0.00,"254,572.97"
+
+Total,,,"459,410.52","1,029,265.66","421,507.20","169,813.68","89,645.88","348,298.90",,"530,644.01",,,,,"43,909.34","989,523.34"
