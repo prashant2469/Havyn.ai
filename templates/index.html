@@ -5,22 +5,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tenant Data Merger</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 
 <body>
-    <h2>Upload CSV Files to Merge</h2>
-    <form action="/" method="POST" enctype="multipart/form-data">
-        <label for="delinquency">Delinquency Report:</label>
-        <input type="file" name="delinquency" accept=".csv" required><br><br>
+    <div class="container">
+        <h2>Upload CSV Files to Merge</h2>
+        <form action="/" method="POST" enctype="multipart/form-data">
+            <div class="upload-section">
+                <label for="delinquency">Delinquency Report:</label>
+                <input type="file" name="delinquency" accept=".csv" required><br>
 
-        <label for="rent_roll">Rent Roll:</label>
-        <input type="file" name="rent_roll" accept=".csv" required><br><br>
+                <label for="rent_roll">Rent Roll:</label>
+                <input type="file" name="rent_roll" accept=".csv" required><br>
 
-        <label for="tenant_directory">Tenant Directory:</label>
-        <input type="file" name="tenant_directory" accept=".csv" required><br><br>
+                <label for="tenant_directory">Tenant Directory:</label>
+                <input type="file" name="tenant_directory" accept=".csv" required><br>
+            </div>
 
-        <button type="submit">Merge & Save</button>
-    </form>
+            <button type="submit" class="btn">Merge & Save</button>
+        </form>
+    </div>
 </body>
 
 </html>
