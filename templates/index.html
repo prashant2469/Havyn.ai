@@ -2,30 +2,127 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tenant Data Merger</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tenant Insights Dashboard</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 40px;
+            background: #f9f9f9;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        input,
+        button {
+            padding: 10px;
+            margin: 10px 0;
+            font-size: 1rem;
+        }
+
+        .preview-table-container,
+        .insights-container {
+            margin-top: 20px;
+        }
+
+        .card {
+            background: #fff;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .loader {
+            display: none;
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
 </head>
 
 <body>
-    <div class="container">
-        <h2>Upload CSV Files to Merge</h2>
-        <form action="/" method="POST" enctype="multipart/form-data">
-            <div class="upload-section">
-                <label for="delinquency">Delinquency Report:</label>
-                <input type="file" name="delinquency" accept=".csv" required><br>
+    <h1>Tenant Data Upload + GPT Insights</h1>
 
-                <label for="rent_roll">Rent Roll:</label>
-                <input type="file" name="rent_roll" accept=".csv" required><br>
+    <form id="uploadForm">
+        <label>Delinquency Report: <input type="file" name="delinquency" required /></label><br>
+        <label>Rent Roll: <input type="file" name="rent_roll" required /></label><br>
+        <label>Tenant Directory: <input type="file" name="tenant_directory" required /></label><br>
+        <button type="submit">Merge & Preview</button>
+    </form>
 
-                <label for="tenant_directory">Tenant Directory:</label>
-                <input type="file" name="tenant_directory" accept=".csv" required><br>
-            </div>
+    <div class="preview-table-container" id="preview"></div>
+    <button id="generateInsightsBtn" style="display:none;">Generate Insights</button>
+    <p class="loader" id="loader">⏳ Generating Insights...</p>
 
-            <button type="submit" class="btn">Merge & Save</button>
-        </form>
-    </div>
+    <div class="insights-container" id="insights"></div>
+
+    <script>
+        let mergedTenantData = [];
+
+        document.getElementById('uploadForm').onsubmit = async function (e) {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+
+            const res = await fetch('/merge', {
+                method: 'POST',
+                body: formData
+            });
+            const data = await res.json();
+            document.getElementById('preview').innerHTML = data.preview;
+            mergedTenantData = data.data;
+            document.getElementById('generateInsightsBtn').style.display = 'inline-block';
+        };
+
+        document.getElementById('generateInsightsBtn').onclick = async function () {
+            const loader = document.getElementById('loader');
+            const insightsDiv = document.getElementById('insights');
+            loader.style.display = 'block';
+            insightsDiv.innerHTML = '';
+
+            const res = await fetch('/generate-insights', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(mergedTenantData)
+            });
+            let insights;
+            try {
+                insights = await res.json();
+            } catch (e) {
+                loader.style.display = 'none';
+                insightsDiv.innerHTML = `<p style="color:red;">Unexpected response format. Please check server logs.</p>`;
+                console.error("❌ JSON parse error:", e);
+                return;
+            }
+            loader.style.display = 'none';
+
+            if (insights.error) {
+                insightsDiv.innerHTML = `<p style="color:red;">${insights.error}</p>`;
+                return;
+            }
+
+            insights.forEach(t => {
+                insightsDiv.innerHTML += `
+          <div class="card">
+            <h3>${t.tenant_name}</h3>
+            <p><strong>Score:</strong> ${t.tenant_score}</p>
+            <p><strong>Renewal Recommendation:</strong> ${t.renewal_recommendation}</p>
+            <p><strong>Turnover Risk:</strong> ${t.turnover_risk}</p>
+            <p><strong>Predicted Delinquency:</strong> ${t.predicted_delinquency}</p>
+            <p><strong>Raise Rent Opportunity:</strong> ${t.raise_rent_opportunity}</p>
+            <p><strong>Retention Outreach Needed:</strong> ${t.retention_outreach_needed}</p>
+            <p><strong>High Delinquency Alert:</strong> ${t.high_delinquency_alert}</p>
+            <p><strong>Notes Analysis:</strong> ${t.notes_analysis}</p>
+            <p><strong>Recommended Actions:</strong></p>
+            <ul>${(t.recommended_actions || []).map(a => `<li>${a}</li>`).join('')}</ul>
+            <p><strong>Property:</strong> ${t.property}</p>
+          </div>
+        `;
+            });
+        };
+    </script>
 </body>
 
 </html>
